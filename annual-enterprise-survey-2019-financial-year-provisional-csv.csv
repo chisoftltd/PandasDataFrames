@@ -1,0 +1,772 @@
+Year,Industry_aggregation_NZSIOC,Industry_code_NZSIOC,Industry_name_NZSIOC,Units,Variable_code,Variable_name,Variable_category,Value,Industry_code_ANZSIC06
+2019,Level 1,99999,All industries,Dollars (millions),H01,Total income,Financial performance,"728,239","ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772, S9540, S9601, S9602, and S9603)"
+2019,Level 1,99999,All industries,Dollars (millions),H04,"Sales, government funding, grants and subsidies",Financial performance,"643,809","ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772, S9540, S9601, S9602, and S9603)"
+2019,Level 1,99999,All industries,Dollars (millions),H05,"Interest, dividends and donations",Financial performance,"62,924","ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772, S9540, S9601, S9602, and S9603)"
+2019,Level 1,99999,All industries,Dollars (millions),H07,Non-operating income,Financial performance,"21,505","ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772, S9540, S9601, S9602, and S9603)"
+2019,Level 1,99999,All industries,Dollars (millions),H08,Total expenditure,Financial performance,"634,710","ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772, S9540, S9601, S9602, and S9603)"
+2019,Level 1,99999,All industries,Dollars (millions),H09,Interest and donations,Financial performance,"35,250","ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772, S9540, S9601, S9602, and S9603)"
+2019,Level 1,99999,All industries,Dollars (millions),H10,Indirect taxes,Financial performance,"7,458","ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772, S9540, S9601, S9602, and S9603)"
+2019,Level 1,99999,All industries,Dollars (millions),H11,Depreciation,Financial performance,"20,977","ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772, S9540, S9601, S9602, and S9603)"
+2019,Level 1,99999,All industries,Dollars (millions),H12,Salaries and wages paid,Financial performance,"112,960","ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772, S9540, S9601, S9602, and S9603)"
+2019,Level 1,99999,All industries,Dollars (millions),H13,Redundancy and severance,Financial performance,206,"ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772, S9540, S9601, S9602, and S9603)"
+2019,Level 1,99999,All industries,Dollars (millions),H14,Salaries and wages to self employed commission agents,Financial performance,"1,767","ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772, S9540, S9601, S9602, and S9603)"
+2019,Level 1,99999,All industries,Dollars (millions),H19,Purchases and other operating expenses,Financial performance,"445,481","ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772, S9540, S9601, S9602, and S9603)"
+2019,Level 1,99999,All industries,Dollars (millions),H20,Non-operating expenses,Financial performance,"10,817","ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772, S9540, S9601, S9602, and S9603)"
+2019,Level 1,99999,All industries,Dollars (millions),H21,Opening stocks,Financial performance,"63,932","ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772, S9540, S9601, S9602, and S9603)"
+2019,Level 1,99999,All industries,Dollars (millions),H22,Closing stocks,Financial performance,"67,518","ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772, S9540, S9601, S9602, and S9603)"
+2019,Level 1,99999,All industries,Dollars (millions),H23,Surplus before income tax,Financial performance,"97,114","ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772, S9540, S9601, S9602, and S9603)"
+2019,Level 1,99999,All industries,Dollars (millions),H24,Total assets,Financial position,"2,216,127","ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772, S9540, S9601, S9602, and S9603)"
+2019,Level 1,99999,All industries,Dollars (millions),H25,Current assets,Financial position,"612,930","ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772, S9540, S9601, S9602, and S9603)"
+2019,Level 1,99999,All industries,Dollars (millions),H26,Fixed tangible assets,Financial position,"535,710","ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772, S9540, S9601, S9602, and S9603)"
+2019,Level 1,99999,All industries,Dollars (millions),H29,Other assets,Financial position,"1,067,488","ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772, S9540, S9601, S9602, and S9603)"
+2019,Level 1,99999,All industries,Dollars (millions),H30,Total equity and liabilities,Financial position,"2,216,127","ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772, S9540, S9601, S9602, and S9603)"
+2019,Level 1,99999,All industries,Dollars (millions),H31,Shareholders funds or owners equity,Financial position,"736,065","ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772, S9540, S9601, S9602, and S9603)"
+2019,Level 1,99999,All industries,Dollars (millions),H32,Current liabilities,Financial position,"805,521","ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772, S9540, S9601, S9602, and S9603)"
+2019,Level 1,99999,All industries,Dollars (millions),H33,Other liabilities,Financial position,"674,542","ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772, S9540, S9601, S9602, and S9603)"
+2019,Level 1,99999,All industries,Dollars,H34,Total income per employee count,Financial ratios,"384,900","ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772, S9540, S9601, S9602, and S9603)"
+2019,Level 1,99999,All industries,Dollars,H35,Surplus per employee count,Financial ratios,"51,300","ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772, S9540, S9601, S9602, and S9603)"
+2019,Level 1,99999,All industries,Percentage,H36,Current ratio,Financial ratios,76,"ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772, S9540, S9601, S9602, and S9603)"
+2019,Level 1,99999,All industries,Percentage,H37,Quick ratio,Financial ratios,68,"ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772, S9540, S9601, S9602, and S9603)"
+2019,Level 1,99999,All industries,Percentage,H39,Return on equity,Financial ratios,13,"ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772, S9540, S9601, S9602, and S9603)"
+2019,Level 1,99999,All industries,Percentage,H40,Return on total assets,Financial ratios,4,"ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772, S9540, S9601, S9602, and S9603)"
+2019,Level 1,99999,All industries,Percentage,H41,Liabilities structure,Financial ratios,33,"ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772, S9540, S9601, S9602, and S9603)"
+2019,Level 1,AA,"Agriculture, Forestry and Fishing",Dollars (millions),H01,Total income,Financial performance,"45,620",ANZSIC06 division A
+2019,Level 1,AA,"Agriculture, Forestry and Fishing",Dollars (millions),H04,Sales of goods and services,Financial performance,"43,216",ANZSIC06 division A
+2019,Level 1,AA,"Agriculture, Forestry and Fishing",Dollars (millions),H05,"Interest, dividends and donations",Financial performance,485,ANZSIC06 division A
+2019,Level 1,AA,"Agriculture, Forestry and Fishing",Dollars (millions),H06,"Government funding, grants and subsidies",Financial performance,14,ANZSIC06 division A
+2019,Level 1,AA,"Agriculture, Forestry and Fishing",Dollars (millions),H07,Non-operating income,Financial performance,"1,905",ANZSIC06 division A
+2019,Level 1,AA,"Agriculture, Forestry and Fishing",Dollars (millions),H08,Total expenditure,Financial performance,"39,327",ANZSIC06 division A
+2019,Level 1,AA,"Agriculture, Forestry and Fishing",Dollars (millions),H09,Interest and donations,Financial performance,"2,928",ANZSIC06 division A
+2019,Level 1,AA,"Agriculture, Forestry and Fishing",Dollars (millions),H10,Indirect taxes,Financial performance,475,ANZSIC06 division A
+2019,Level 1,AA,"Agriculture, Forestry and Fishing",Dollars (millions),H11,Depreciation,Financial performance,"2,080",ANZSIC06 division A
+2019,Level 1,AA,"Agriculture, Forestry and Fishing",Dollars (millions),H12,Salaries and wages paid,Financial performance,"5,574",ANZSIC06 division A
+2019,Level 1,AA,"Agriculture, Forestry and Fishing",Dollars (millions),H13,Redundancy and severance,Financial performance,0,ANZSIC06 division A
+2019,Level 1,AA,"Agriculture, Forestry and Fishing",Dollars (millions),H19,Purchases and other operating expenses,Financial performance,"27,696",ANZSIC06 division A
+2019,Level 1,AA,"Agriculture, Forestry and Fishing",Dollars (millions),H20,Non-operating expenses,Financial performance,573,ANZSIC06 division A
+2019,Level 1,AA,"Agriculture, Forestry and Fishing",Dollars (millions),H21,Opening stocks,Financial performance,"14,659",ANZSIC06 division A
+2019,Level 1,AA,"Agriculture, Forestry and Fishing",Dollars (millions),H22,Closing stocks,Financial performance,"14,857",ANZSIC06 division A
+2019,Level 1,AA,"Agriculture, Forestry and Fishing",Dollars (millions),H23,Surplus before income tax,Financial performance,"6,491",ANZSIC06 division A
+2019,Level 1,AA,"Agriculture, Forestry and Fishing",Dollars (millions),H24,Total assets,Financial position,"179,023",ANZSIC06 division A
+2019,Level 1,AA,"Agriculture, Forestry and Fishing",Dollars (millions),H25,Current assets,Financial position,"34,692",ANZSIC06 division A
+2019,Level 1,AA,"Agriculture, Forestry and Fishing",Dollars (millions),H26,Fixed tangible assets,Financial position,"103,077",ANZSIC06 division A
+2019,Level 1,AA,"Agriculture, Forestry and Fishing",Dollars (millions),H29,Other assets,Financial position,"41,254",ANZSIC06 division A
+2019,Level 1,AA,"Agriculture, Forestry and Fishing",Dollars (millions),H30,Total equity and liabilities,Financial position,"179,023",ANZSIC06 division A
+2019,Level 1,AA,"Agriculture, Forestry and Fishing",Dollars (millions),H31,Shareholders funds or owners equity,Financial position,"83,094",ANZSIC06 division A
+2019,Level 1,AA,"Agriculture, Forestry and Fishing",Dollars (millions),H32,Current liabilities,Financial position,"31,413",ANZSIC06 division A
+2019,Level 1,AA,"Agriculture, Forestry and Fishing",Dollars (millions),H33,Other liabilities,Financial position,"64,516",ANZSIC06 division A
+2019,Level 1,AA,"Agriculture, Forestry and Fishing",Dollars,H34,Total income per employee count,Financial ratios,"389,700",ANZSIC06 division A
+2019,Level 1,AA,"Agriculture, Forestry and Fishing",Dollars,H35,Surplus per employee count,Financial ratios,"55,400",ANZSIC06 division A
+2019,Level 1,AA,"Agriculture, Forestry and Fishing",Percentage,H36,Current ratio,Financial ratios,110,ANZSIC06 division A
+2019,Level 1,AA,"Agriculture, Forestry and Fishing",Percentage,H37,Quick ratio,Financial ratios,63,ANZSIC06 division A
+2019,Level 1,AA,"Agriculture, Forestry and Fishing",Percentage,H39,Return on equity,Financial ratios,8,ANZSIC06 division A
+2019,Level 1,AA,"Agriculture, Forestry and Fishing",Percentage,H40,Return on total assets,Financial ratios,4,ANZSIC06 division A
+2019,Level 1,AA,"Agriculture, Forestry and Fishing",Percentage,H41,Liabilities structure,Financial ratios,46,ANZSIC06 division A
+2019,Level 3,AA11,Horticulture and Fruit Growing,Dollars (millions),H01,Total income,Financial performance,"4,788","ANZSIC06 groups A011, A012, and A013"
+2019,Level 3,AA11,Horticulture and Fruit Growing,Dollars (millions),H04,"Sales, government funding, grants and subsidies",Financial performance,"4,471","ANZSIC06 groups A011, A012, and A013"
+2019,Level 3,AA11,Horticulture and Fruit Growing,Dollars (millions),H05,"Interest, dividends and donations",Financial performance,132,"ANZSIC06 groups A011, A012, and A013"
+2019,Level 3,AA11,Horticulture and Fruit Growing,Dollars (millions),H07,Non-operating income,Financial performance,185,"ANZSIC06 groups A011, A012, and A013"
+2019,Level 3,AA11,Horticulture and Fruit Growing,Dollars (millions),H08,Total expenditure,Financial performance,"3,981","ANZSIC06 groups A011, A012, and A013"
+2019,Level 3,AA11,Horticulture and Fruit Growing,Dollars (millions),H09,Interest and donations,Financial performance,202,"ANZSIC06 groups A011, A012, and A013"
+2019,Level 3,AA11,Horticulture and Fruit Growing,Dollars (millions),H10,Indirect taxes,Financial performance,36,"ANZSIC06 groups A011, A012, and A013"
+2019,Level 3,AA11,Horticulture and Fruit Growing,Dollars (millions),H11,Depreciation,Financial performance,231,"ANZSIC06 groups A011, A012, and A013"
+2019,Level 3,AA11,Horticulture and Fruit Growing,Dollars (millions),H12,Salaries and wages paid,Financial performance,820,"ANZSIC06 groups A011, A012, and A013"
+2019,Level 3,AA11,Horticulture and Fruit Growing,Dollars (millions),H13,Redundancy and severance,Financial performance,0,"ANZSIC06 groups A011, A012, and A013"
+2019,Level 3,AA11,Horticulture and Fruit Growing,Dollars (millions),H19,Purchases and other operating expenses,Financial performance,"2,673","ANZSIC06 groups A011, A012, and A013"
+2019,Level 3,AA11,Horticulture and Fruit Growing,Dollars (millions),H20,Non-operating expenses,Financial performance,19,"ANZSIC06 groups A011, A012, and A013"
+2019,Level 3,AA11,Horticulture and Fruit Growing,Dollars (millions),H21,Opening stocks,Financial performance,339,"ANZSIC06 groups A011, A012, and A013"
+2019,Level 3,AA11,Horticulture and Fruit Growing,Dollars (millions),H22,Closing stocks,Financial performance,363,"ANZSIC06 groups A011, A012, and A013"
+2019,Level 3,AA11,Horticulture and Fruit Growing,Dollars (millions),H23,Surplus before income tax,Financial performance,832,"ANZSIC06 groups A011, A012, and A013"
+2019,Level 3,AA11,Horticulture and Fruit Growing,Dollars (millions),H24,Total assets,Financial position,"14,972","ANZSIC06 groups A011, A012, and A013"
+2019,Level 3,AA11,Horticulture and Fruit Growing,Dollars (millions),H25,Current assets,Financial position,"2,671","ANZSIC06 groups A011, A012, and A013"
+2019,Level 3,AA11,Horticulture and Fruit Growing,Dollars (millions),H26,Fixed tangible assets,Financial position,"9,750","ANZSIC06 groups A011, A012, and A013"
+2019,Level 3,AA11,Horticulture and Fruit Growing,Dollars (millions),H29,Other assets,Financial position,"2,551","ANZSIC06 groups A011, A012, and A013"
+2019,Level 3,AA11,Horticulture and Fruit Growing,Dollars (millions),H30,Total equity and liabilities,Financial position,"14,972","ANZSIC06 groups A011, A012, and A013"
+2019,Level 3,AA11,Horticulture and Fruit Growing,Dollars (millions),H31,Shareholders funds or owners equity,Financial position,"6,967","ANZSIC06 groups A011, A012, and A013"
+2019,Level 3,AA11,Horticulture and Fruit Growing,Dollars (millions),H32,Current liabilities,Financial position,"3,500","ANZSIC06 groups A011, A012, and A013"
+2019,Level 3,AA11,Horticulture and Fruit Growing,Dollars (millions),H33,Other liabilities,Financial position,"4,505","ANZSIC06 groups A011, A012, and A013"
+2019,Level 3,AA11,Horticulture and Fruit Growing,Dollars,H34,Total income per employee count,Financial ratios,"185,800","ANZSIC06 groups A011, A012, and A013"
+2019,Level 3,AA11,Horticulture and Fruit Growing,Dollars,H35,Surplus per employee count,Financial ratios,"32,300","ANZSIC06 groups A011, A012, and A013"
+2019,Level 3,AA11,Horticulture and Fruit Growing,Percentage,H36,Current ratio,Financial ratios,76,"ANZSIC06 groups A011, A012, and A013"
+2019,Level 3,AA11,Horticulture and Fruit Growing,Percentage,H37,Quick ratio,Financial ratios,66,"ANZSIC06 groups A011, A012, and A013"
+2019,Level 3,AA11,Horticulture and Fruit Growing,Percentage,H39,Return on equity,Financial ratios,12,"ANZSIC06 groups A011, A012, and A013"
+2019,Level 3,AA11,Horticulture and Fruit Growing,Percentage,H40,Return on total assets,Financial ratios,6,"ANZSIC06 groups A011, A012, and A013"
+2019,Level 3,AA11,Horticulture and Fruit Growing,Percentage,H41,Liabilities structure,Financial ratios,47,"ANZSIC06 groups A011, A012, and A013"
+2019,Level 4,AA111,Horticulture and Fruit Growing,Dollars (millions),H01,Total income,Financial performance,"4,788","ANZSIC06 groups A011, A012, and A013"
+2019,Level 4,AA111,Horticulture and Fruit Growing,Dollars (millions),H04,"Sales, government funding, grants and subsidies",Financial performance,"4,471","ANZSIC06 groups A011, A012, and A013"
+2019,Level 4,AA111,Horticulture and Fruit Growing,Dollars (millions),H05,"Interest, dividends and donations",Financial performance,132,"ANZSIC06 groups A011, A012, and A013"
+2019,Level 4,AA111,Horticulture and Fruit Growing,Dollars (millions),H07,Non-operating income,Financial performance,185,"ANZSIC06 groups A011, A012, and A013"
+2019,Level 4,AA111,Horticulture and Fruit Growing,Dollars (millions),H08,Total expenditure,Financial performance,"3,981","ANZSIC06 groups A011, A012, and A013"
+2019,Level 4,AA111,Horticulture and Fruit Growing,Dollars (millions),H09,Interest and donations,Financial performance,202,"ANZSIC06 groups A011, A012, and A013"
+2019,Level 4,AA111,Horticulture and Fruit Growing,Dollars (millions),H10,Indirect taxes,Financial performance,36,"ANZSIC06 groups A011, A012, and A013"
+2019,Level 4,AA111,Horticulture and Fruit Growing,Dollars (millions),H11,Depreciation,Financial performance,231,"ANZSIC06 groups A011, A012, and A013"
+2019,Level 4,AA111,Horticulture and Fruit Growing,Dollars (millions),H12,Salaries and wages paid,Financial performance,820,"ANZSIC06 groups A011, A012, and A013"
+2019,Level 4,AA111,Horticulture and Fruit Growing,Dollars (millions),H13,Redundancy and severance,Financial performance,0,"ANZSIC06 groups A011, A012, and A013"
+2019,Level 4,AA111,Horticulture and Fruit Growing,Dollars (millions),H19,Purchases and other operating expenses,Financial performance,"2,673","ANZSIC06 groups A011, A012, and A013"
+2019,Level 4,AA111,Horticulture and Fruit Growing,Dollars (millions),H20,Non-operating expenses,Financial performance,19,"ANZSIC06 groups A011, A012, and A013"
+2019,Level 4,AA111,Horticulture and Fruit Growing,Dollars (millions),H21,Opening stocks,Financial performance,339,"ANZSIC06 groups A011, A012, and A013"
+2019,Level 4,AA111,Horticulture and Fruit Growing,Dollars (millions),H22,Closing stocks,Financial performance,363,"ANZSIC06 groups A011, A012, and A013"
+2019,Level 4,AA111,Horticulture and Fruit Growing,Dollars (millions),H23,Surplus before income tax,Financial performance,832,"ANZSIC06 groups A011, A012, and A013"
+2019,Level 4,AA111,Horticulture and Fruit Growing,Dollars (millions),H24,Total assets,Financial position,"14,972","ANZSIC06 groups A011, A012, and A013"
+2019,Level 4,AA111,Horticulture and Fruit Growing,Dollars (millions),H25,Current assets,Financial position,"2,671","ANZSIC06 groups A011, A012, and A013"
+2019,Level 4,AA111,Horticulture and Fruit Growing,Dollars (millions),H26,Fixed tangible assets,Financial position,"9,750","ANZSIC06 groups A011, A012, and A013"
+2019,Level 4,AA111,Horticulture and Fruit Growing,Dollars (millions),H29,Other assets,Financial position,"2,551","ANZSIC06 groups A011, A012, and A013"
+2019,Level 4,AA111,Horticulture and Fruit Growing,Dollars (millions),H30,Total equity and liabilities,Financial position,"14,972","ANZSIC06 groups A011, A012, and A013"
+2019,Level 4,AA111,Horticulture and Fruit Growing,Dollars (millions),H31,Shareholders funds or owners equity,Financial position,"6,967","ANZSIC06 groups A011, A012, and A013"
+2019,Level 4,AA111,Horticulture and Fruit Growing,Dollars (millions),H32,Current liabilities,Financial position,"3,500","ANZSIC06 groups A011, A012, and A013"
+2019,Level 4,AA111,Horticulture and Fruit Growing,Dollars (millions),H33,Other liabilities,Financial position,"4,505","ANZSIC06 groups A011, A012, and A013"
+2019,Level 4,AA111,Horticulture and Fruit Growing,Dollars,H34,Total income per employee count,Financial ratios,"185,800","ANZSIC06 groups A011, A012, and A013"
+2019,Level 4,AA111,Horticulture and Fruit Growing,Dollars,H35,Surplus per employee count,Financial ratios,"32,300","ANZSIC06 groups A011, A012, and A013"
+2019,Level 4,AA111,Horticulture and Fruit Growing,Percentage,H36,Current ratio,Financial ratios,76,"ANZSIC06 groups A011, A012, and A013"
+2019,Level 4,AA111,Horticulture and Fruit Growing,Percentage,H37,Quick ratio,Financial ratios,66,"ANZSIC06 groups A011, A012, and A013"
+2019,Level 4,AA111,Horticulture and Fruit Growing,Percentage,H39,Return on equity,Financial ratios,12,"ANZSIC06 groups A011, A012, and A013"
+2019,Level 4,AA111,Horticulture and Fruit Growing,Percentage,H40,Return on total assets,Financial ratios,6,"ANZSIC06 groups A011, A012, and A013"
+2019,Level 4,AA111,Horticulture and Fruit Growing,Percentage,H41,Liabilities structure,Financial ratios,47,"ANZSIC06 groups A011, A012, and A013"
+2019,Level 3,AA12,"Sheep, Beef Cattle and Grain Farming",Dollars (millions),H01,Total income,Financial performance,"11,872",ANZSIC06 groups A014 and A015
+2019,Level 3,AA12,"Sheep, Beef Cattle and Grain Farming",Dollars (millions),H04,"Sales, government funding, grants and subsidies",Financial performance,"11,152",ANZSIC06 groups A014 and A015
+2019,Level 3,AA12,"Sheep, Beef Cattle and Grain Farming",Dollars (millions),H05,"Interest, dividends and donations",Financial performance,134,ANZSIC06 groups A014 and A015
+2019,Level 3,AA12,"Sheep, Beef Cattle and Grain Farming",Dollars (millions),H07,Non-operating income,Financial performance,586,ANZSIC06 groups A014 and A015
+2019,Level 3,AA12,"Sheep, Beef Cattle and Grain Farming",Dollars (millions),H08,Total expenditure,Financial performance,"10,381",ANZSIC06 groups A014 and A015
+2019,Level 3,AA12,"Sheep, Beef Cattle and Grain Farming",Dollars (millions),H09,Interest and donations,Financial performance,706,ANZSIC06 groups A014 and A015
+2019,Level 3,AA12,"Sheep, Beef Cattle and Grain Farming",Dollars (millions),H10,Indirect taxes,Financial performance,183,ANZSIC06 groups A014 and A015
+2019,Level 3,AA12,"Sheep, Beef Cattle and Grain Farming",Dollars (millions),H11,Depreciation,Financial performance,551,ANZSIC06 groups A014 and A015
+2019,Level 3,AA12,"Sheep, Beef Cattle and Grain Farming",Dollars (millions),H12,Salaries and wages paid,Financial performance,"1,036",ANZSIC06 groups A014 and A015
+2019,Level 3,AA12,"Sheep, Beef Cattle and Grain Farming",Dollars (millions),H13,Redundancy and severance,Financial performance,0,ANZSIC06 groups A014 and A015
+2019,Level 3,AA12,"Sheep, Beef Cattle and Grain Farming",Dollars (millions),H19,Purchases and other operating expenses,Financial performance,"7,836",ANZSIC06 groups A014 and A015
+2019,Level 3,AA12,"Sheep, Beef Cattle and Grain Farming",Dollars (millions),H20,Non-operating expenses,Financial performance,69,ANZSIC06 groups A014 and A015
+2019,Level 3,AA12,"Sheep, Beef Cattle and Grain Farming",Dollars (millions),H21,Opening stocks,Financial performance,"6,526",ANZSIC06 groups A014 and A015
+2019,Level 3,AA12,"Sheep, Beef Cattle and Grain Farming",Dollars (millions),H22,Closing stocks,Financial performance,"6,689",ANZSIC06 groups A014 and A015
+2019,Level 3,AA12,"Sheep, Beef Cattle and Grain Farming",Dollars (millions),H23,Surplus before income tax,Financial performance,"1,654",ANZSIC06 groups A014 and A015
+2019,Level 3,AA12,"Sheep, Beef Cattle and Grain Farming",Dollars (millions),H24,Total assets,Financial position,"58,600",ANZSIC06 groups A014 and A015
+2019,Level 3,AA12,"Sheep, Beef Cattle and Grain Farming",Dollars (millions),H25,Current assets,Financial position,"13,347",ANZSIC06 groups A014 and A015
+2019,Level 3,AA12,"Sheep, Beef Cattle and Grain Farming",Dollars (millions),H26,Fixed tangible assets,Financial position,"37,381",ANZSIC06 groups A014 and A015
+2019,Level 3,AA12,"Sheep, Beef Cattle and Grain Farming",Dollars (millions),H29,Other assets,Financial position,"7,872",ANZSIC06 groups A014 and A015
+2019,Level 3,AA12,"Sheep, Beef Cattle and Grain Farming",Dollars (millions),H30,Total equity and liabilities,Financial position,"58,600",ANZSIC06 groups A014 and A015
+2019,Level 3,AA12,"Sheep, Beef Cattle and Grain Farming",Dollars (millions),H31,Shareholders funds or owners equity,Financial position,"32,303",ANZSIC06 groups A014 and A015
+2019,Level 3,AA12,"Sheep, Beef Cattle and Grain Farming",Dollars (millions),H32,Current liabilities,Financial position,"10,064",ANZSIC06 groups A014 and A015
+2019,Level 3,AA12,"Sheep, Beef Cattle and Grain Farming",Dollars (millions),H33,Other liabilities,Financial position,"16,233",ANZSIC06 groups A014 and A015
+2019,Level 3,AA12,"Sheep, Beef Cattle and Grain Farming",Dollars,H34,Total income per employee count,Financial ratios,"527,800",ANZSIC06 groups A014 and A015
+2019,Level 3,AA12,"Sheep, Beef Cattle and Grain Farming",Dollars,H35,Surplus per employee count,Financial ratios,"73,500",ANZSIC06 groups A014 and A015
+2019,Level 3,AA12,"Sheep, Beef Cattle and Grain Farming",Percentage,H36,Current ratio,Financial ratios,133,ANZSIC06 groups A014 and A015
+2019,Level 3,AA12,"Sheep, Beef Cattle and Grain Farming",Percentage,H37,Quick ratio,Financial ratios,66,ANZSIC06 groups A014 and A015
+2019,Level 3,AA12,"Sheep, Beef Cattle and Grain Farming",Percentage,H39,Return on equity,Financial ratios,5,ANZSIC06 groups A014 and A015
+2019,Level 3,AA12,"Sheep, Beef Cattle and Grain Farming",Percentage,H40,Return on total assets,Financial ratios,3,ANZSIC06 groups A014 and A015
+2019,Level 3,AA12,"Sheep, Beef Cattle and Grain Farming",Percentage,H41,Liabilities structure,Financial ratios,55,ANZSIC06 groups A014 and A015
+2019,Level 4,AA121,"Sheep, Beef Cattle and Grain Farming",Dollars (millions),H01,Total income,Financial performance,"11,872",ANZSIC06 groups A014 and A015
+2019,Level 4,AA121,"Sheep, Beef Cattle and Grain Farming",Dollars (millions),H04,"Sales, government funding, grants and subsidies",Financial performance,"11,152",ANZSIC06 groups A014 and A015
+2019,Level 4,AA121,"Sheep, Beef Cattle and Grain Farming",Dollars (millions),H05,"Interest, dividends and donations",Financial performance,134,ANZSIC06 groups A014 and A015
+2019,Level 4,AA121,"Sheep, Beef Cattle and Grain Farming",Dollars (millions),H07,Non-operating income,Financial performance,586,ANZSIC06 groups A014 and A015
+2019,Level 4,AA121,"Sheep, Beef Cattle and Grain Farming",Dollars (millions),H08,Total expenditure,Financial performance,"10,381",ANZSIC06 groups A014 and A015
+2019,Level 4,AA121,"Sheep, Beef Cattle and Grain Farming",Dollars (millions),H09,Interest and donations,Financial performance,706,ANZSIC06 groups A014 and A015
+2019,Level 4,AA121,"Sheep, Beef Cattle and Grain Farming",Dollars (millions),H10,Indirect taxes,Financial performance,183,ANZSIC06 groups A014 and A015
+2019,Level 4,AA121,"Sheep, Beef Cattle and Grain Farming",Dollars (millions),H11,Depreciation,Financial performance,551,ANZSIC06 groups A014 and A015
+2019,Level 4,AA121,"Sheep, Beef Cattle and Grain Farming",Dollars (millions),H12,Salaries and wages paid,Financial performance,"1,036",ANZSIC06 groups A014 and A015
+2019,Level 4,AA121,"Sheep, Beef Cattle and Grain Farming",Dollars (millions),H13,Redundancy and severance,Financial performance,0,ANZSIC06 groups A014 and A015
+2019,Level 4,AA121,"Sheep, Beef Cattle and Grain Farming",Dollars (millions),H19,Purchases and other operating expenses,Financial performance,"7,836",ANZSIC06 groups A014 and A015
+2019,Level 4,AA121,"Sheep, Beef Cattle and Grain Farming",Dollars (millions),H20,Non-operating expenses,Financial performance,69,ANZSIC06 groups A014 and A015
+2019,Level 4,AA121,"Sheep, Beef Cattle and Grain Farming",Dollars (millions),H21,Opening stocks,Financial performance,"6,526",ANZSIC06 groups A014 and A015
+2019,Level 4,AA121,"Sheep, Beef Cattle and Grain Farming",Dollars (millions),H22,Closing stocks,Financial performance,"6,689",ANZSIC06 groups A014 and A015
+2019,Level 4,AA121,"Sheep, Beef Cattle and Grain Farming",Dollars (millions),H23,Surplus before income tax,Financial performance,"1,654",ANZSIC06 groups A014 and A015
+2019,Level 4,AA121,"Sheep, Beef Cattle and Grain Farming",Dollars (millions),H24,Total assets,Financial position,"58,600",ANZSIC06 groups A014 and A015
+2019,Level 4,AA121,"Sheep, Beef Cattle and Grain Farming",Dollars (millions),H25,Current assets,Financial position,"13,347",ANZSIC06 groups A014 and A015
+2019,Level 4,AA121,"Sheep, Beef Cattle and Grain Farming",Dollars (millions),H26,Fixed tangible assets,Financial position,"37,381",ANZSIC06 groups A014 and A015
+2019,Level 4,AA121,"Sheep, Beef Cattle and Grain Farming",Dollars (millions),H29,Other assets,Financial position,"7,872",ANZSIC06 groups A014 and A015
+2019,Level 4,AA121,"Sheep, Beef Cattle and Grain Farming",Dollars (millions),H30,Total equity and liabilities,Financial position,"58,600",ANZSIC06 groups A014 and A015
+2019,Level 4,AA121,"Sheep, Beef Cattle and Grain Farming",Dollars (millions),H31,Shareholders funds or owners equity,Financial position,"32,303",ANZSIC06 groups A014 and A015
+2019,Level 4,AA121,"Sheep, Beef Cattle and Grain Farming",Dollars (millions),H32,Current liabilities,Financial position,"10,064",ANZSIC06 groups A014 and A015
+2019,Level 4,AA121,"Sheep, Beef Cattle and Grain Farming",Dollars (millions),H33,Other liabilities,Financial position,"16,233",ANZSIC06 groups A014 and A015
+2019,Level 4,AA121,"Sheep, Beef Cattle and Grain Farming",Dollars,H34,Total income per employee count,Financial ratios,"527,800",ANZSIC06 groups A014 and A015
+2019,Level 4,AA121,"Sheep, Beef Cattle and Grain Farming",Dollars,H35,Surplus per employee count,Financial ratios,"73,500",ANZSIC06 groups A014 and A015
+2019,Level 4,AA121,"Sheep, Beef Cattle and Grain Farming",Percentage,H36,Current ratio,Financial ratios,133,ANZSIC06 groups A014 and A015
+2019,Level 4,AA121,"Sheep, Beef Cattle and Grain Farming",Percentage,H37,Quick ratio,Financial ratios,66,ANZSIC06 groups A014 and A015
+2019,Level 4,AA121,"Sheep, Beef Cattle and Grain Farming",Percentage,H39,Return on equity,Financial ratios,5,ANZSIC06 groups A014 and A015
+2019,Level 4,AA121,"Sheep, Beef Cattle and Grain Farming",Percentage,H40,Return on total assets,Financial ratios,3,ANZSIC06 groups A014 and A015
+2019,Level 4,AA121,"Sheep, Beef Cattle and Grain Farming",Percentage,H41,Liabilities structure,Financial ratios,55,ANZSIC06 groups A014 and A015
+2019,Level 3,AA13,Dairy Cattle Farming,Dollars (millions),H01,Total income,Financial performance,"13,757",ANZSIC06 group A016
+2019,Level 3,AA13,Dairy Cattle Farming,Dollars (millions),H04,"Sales, government funding, grants and subsidies",Financial performance,"13,362",ANZSIC06 group A016
+2019,Level 3,AA13,Dairy Cattle Farming,Dollars (millions),H05,"Interest, dividends and donations",Financial performance,97,ANZSIC06 group A016
+2019,Level 3,AA13,Dairy Cattle Farming,Dollars (millions),H07,Non-operating income,Financial performance,299,ANZSIC06 group A016
+2019,Level 3,AA13,Dairy Cattle Farming,Dollars (millions),H08,Total expenditure,Financial performance,"12,188",ANZSIC06 group A016
+2019,Level 3,AA13,Dairy Cattle Farming,Dollars (millions),H09,Interest and donations,Financial performance,"1,596",ANZSIC06 group A016
+2019,Level 3,AA13,Dairy Cattle Farming,Dollars (millions),H10,Indirect taxes,Financial performance,183,ANZSIC06 group A016
+2019,Level 3,AA13,Dairy Cattle Farming,Dollars (millions),H11,Depreciation,Financial performance,670,ANZSIC06 group A016
+2019,Level 3,AA13,Dairy Cattle Farming,Dollars (millions),H12,Salaries and wages paid,Financial performance,"1,480",ANZSIC06 group A016
+2019,Level 3,AA13,Dairy Cattle Farming,Dollars (millions),H13,Redundancy and severance,Financial performance,0,ANZSIC06 group A016
+2019,Level 3,AA13,Dairy Cattle Farming,Dollars (millions),H19,Purchases and other operating expenses,Financial performance,"8,225",ANZSIC06 group A016
+2019,Level 3,AA13,Dairy Cattle Farming,Dollars (millions),H20,Non-operating expenses,Financial performance,34,ANZSIC06 group A016
+2019,Level 3,AA13,Dairy Cattle Farming,Dollars (millions),H21,Opening stocks,Financial performance,"6,416",ANZSIC06 group A016
+2019,Level 3,AA13,Dairy Cattle Farming,Dollars (millions),H22,Closing stocks,Financial performance,"6,370",ANZSIC06 group A016
+2019,Level 3,AA13,Dairy Cattle Farming,Dollars (millions),H23,Surplus before income tax,Financial performance,"1,524",ANZSIC06 group A016
+2019,Level 3,AA13,Dairy Cattle Farming,Dollars (millions),H24,Total assets,Financial position,"66,151",ANZSIC06 group A016
+2019,Level 3,AA13,Dairy Cattle Farming,Dollars (millions),H25,Current assets,Financial position,"11,893",ANZSIC06 group A016
+2019,Level 3,AA13,Dairy Cattle Farming,Dollars (millions),H26,Fixed tangible assets,Financial position,"43,332",ANZSIC06 group A016
+2019,Level 3,AA13,Dairy Cattle Farming,Dollars (millions),H29,Other assets,Financial position,"10,925",ANZSIC06 group A016
+2019,Level 3,AA13,Dairy Cattle Farming,Dollars (millions),H30,Total equity and liabilities,Financial position,"66,151",ANZSIC06 group A016
+2019,Level 3,AA13,Dairy Cattle Farming,Dollars (millions),H31,Shareholders funds or owners equity,Financial position,"22,115",ANZSIC06 group A016
+2019,Level 3,AA13,Dairy Cattle Farming,Dollars (millions),H32,Current liabilities,Financial position,"11,338",ANZSIC06 group A016
+2019,Level 3,AA13,Dairy Cattle Farming,Dollars (millions),H33,Other liabilities,Financial position,"32,698",ANZSIC06 group A016
+2019,Level 3,AA13,Dairy Cattle Farming,Dollars,H34,Total income per employee count,Financial ratios,"533,700",ANZSIC06 group A016
+2019,Level 3,AA13,Dairy Cattle Farming,Dollars,H35,Surplus per employee count,Financial ratios,"59,100",ANZSIC06 group A016
+2019,Level 3,AA13,Dairy Cattle Farming,Percentage,H36,Current ratio,Financial ratios,105,ANZSIC06 group A016
+2019,Level 3,AA13,Dairy Cattle Farming,Percentage,H37,Quick ratio,Financial ratios,49,ANZSIC06 group A016
+2019,Level 3,AA13,Dairy Cattle Farming,Percentage,H39,Return on equity,Financial ratios,7,ANZSIC06 group A016
+2019,Level 3,AA13,Dairy Cattle Farming,Percentage,H40,Return on total assets,Financial ratios,2,ANZSIC06 group A016
+2019,Level 3,AA13,Dairy Cattle Farming,Percentage,H41,Liabilities structure,Financial ratios,33,ANZSIC06 group A016
+2019,Level 4,AA131,Dairy Cattle Farming,Dollars (millions),H01,Total income,Financial performance,"13,757",ANZSIC06 group A016
+2019,Level 4,AA131,Dairy Cattle Farming,Dollars (millions),H04,"Sales, government funding, grants and subsidies",Financial performance,"13,362",ANZSIC06 group A016
+2019,Level 4,AA131,Dairy Cattle Farming,Dollars (millions),H05,"Interest, dividends and donations",Financial performance,97,ANZSIC06 group A016
+2019,Level 4,AA131,Dairy Cattle Farming,Dollars (millions),H07,Non-operating income,Financial performance,299,ANZSIC06 group A016
+2019,Level 4,AA131,Dairy Cattle Farming,Dollars (millions),H08,Total expenditure,Financial performance,"12,188",ANZSIC06 group A016
+2019,Level 4,AA131,Dairy Cattle Farming,Dollars (millions),H09,Interest and donations,Financial performance,"1,596",ANZSIC06 group A016
+2019,Level 4,AA131,Dairy Cattle Farming,Dollars (millions),H10,Indirect taxes,Financial performance,183,ANZSIC06 group A016
+2019,Level 4,AA131,Dairy Cattle Farming,Dollars (millions),H11,Depreciation,Financial performance,670,ANZSIC06 group A016
+2019,Level 4,AA131,Dairy Cattle Farming,Dollars (millions),H12,Salaries and wages paid,Financial performance,"1,480",ANZSIC06 group A016
+2019,Level 4,AA131,Dairy Cattle Farming,Dollars (millions),H13,Redundancy and severance,Financial performance,0,ANZSIC06 group A016
+2019,Level 4,AA131,Dairy Cattle Farming,Dollars (millions),H19,Purchases and other operating expenses,Financial performance,"8,225",ANZSIC06 group A016
+2019,Level 4,AA131,Dairy Cattle Farming,Dollars (millions),H20,Non-operating expenses,Financial performance,34,ANZSIC06 group A016
+2019,Level 4,AA131,Dairy Cattle Farming,Dollars (millions),H21,Opening stocks,Financial performance,"6,416",ANZSIC06 group A016
+2019,Level 4,AA131,Dairy Cattle Farming,Dollars (millions),H22,Closing stocks,Financial performance,"6,370",ANZSIC06 group A016
+2019,Level 4,AA131,Dairy Cattle Farming,Dollars (millions),H23,Surplus before income tax,Financial performance,"1,524",ANZSIC06 group A016
+2019,Level 4,AA131,Dairy Cattle Farming,Dollars (millions),H24,Total assets,Financial position,"66,151",ANZSIC06 group A016
+2019,Level 4,AA131,Dairy Cattle Farming,Dollars (millions),H25,Current assets,Financial position,"11,893",ANZSIC06 group A016
+2019,Level 4,AA131,Dairy Cattle Farming,Dollars (millions),H26,Fixed tangible assets,Financial position,"43,332",ANZSIC06 group A016
+2019,Level 4,AA131,Dairy Cattle Farming,Dollars (millions),H29,Other assets,Financial position,"10,925",ANZSIC06 group A016
+2019,Level 4,AA131,Dairy Cattle Farming,Dollars (millions),H30,Total equity and liabilities,Financial position,"66,151",ANZSIC06 group A016
+2019,Level 4,AA131,Dairy Cattle Farming,Dollars (millions),H31,Shareholders funds or owners equity,Financial position,"22,115",ANZSIC06 group A016
+2019,Level 4,AA131,Dairy Cattle Farming,Dollars (millions),H32,Current liabilities,Financial position,"11,338",ANZSIC06 group A016
+2019,Level 4,AA131,Dairy Cattle Farming,Dollars (millions),H33,Other liabilities,Financial position,"32,698",ANZSIC06 group A016
+2019,Level 4,AA131,Dairy Cattle Farming,Dollars,H34,Total income per employee count,Financial ratios,"533,700",ANZSIC06 group A016
+2019,Level 4,AA131,Dairy Cattle Farming,Dollars,H35,Surplus per employee count,Financial ratios,"59,100",ANZSIC06 group A016
+2019,Level 4,AA131,Dairy Cattle Farming,Percentage,H36,Current ratio,Financial ratios,105,ANZSIC06 group A016
+2019,Level 4,AA131,Dairy Cattle Farming,Percentage,H37,Quick ratio,Financial ratios,49,ANZSIC06 group A016
+2019,Level 4,AA131,Dairy Cattle Farming,Percentage,H39,Return on equity,Financial ratios,7,ANZSIC06 group A016
+2019,Level 4,AA131,Dairy Cattle Farming,Percentage,H40,Return on total assets,Financial ratios,2,ANZSIC06 group A016
+2019,Level 4,AA131,Dairy Cattle Farming,Percentage,H41,Liabilities structure,Financial ratios,33,ANZSIC06 group A016
+2019,Level 3,AA14,"Poultry, Deer and Other Livestock Farming",Dollars (millions),H01,Total income,Financial performance,"2,127","ANZSIC06 groups A017, A018, and A019"
+2019,Level 3,AA14,"Poultry, Deer and Other Livestock Farming",Dollars (millions),H04,"Sales, government funding, grants and subsidies",Financial performance,"2,071","ANZSIC06 groups A017, A018, and A019"
+2019,Level 3,AA14,"Poultry, Deer and Other Livestock Farming",Dollars (millions),H05,"Interest, dividends and donations",Financial performance,22,"ANZSIC06 groups A017, A018, and A019"
+2019,Level 3,AA14,"Poultry, Deer and Other Livestock Farming",Dollars (millions),H07,Non-operating income,Financial performance,35,"ANZSIC06 groups A017, A018, and A019"
+2019,Level 3,AA14,"Poultry, Deer and Other Livestock Farming",Dollars (millions),H08,Total expenditure,Financial performance,"2,001","ANZSIC06 groups A017, A018, and A019"
+2019,Level 3,AA14,"Poultry, Deer and Other Livestock Farming",Dollars (millions),H09,Interest and donations,Financial performance,101,"ANZSIC06 groups A017, A018, and A019"
+2019,Level 3,AA14,"Poultry, Deer and Other Livestock Farming",Dollars (millions),H10,Indirect taxes,Financial performance,15,"ANZSIC06 groups A017, A018, and A019"
+2019,Level 3,AA14,"Poultry, Deer and Other Livestock Farming",Dollars (millions),H11,Depreciation,Financial performance,112,"ANZSIC06 groups A017, A018, and A019"
+2019,Level 3,AA14,"Poultry, Deer and Other Livestock Farming",Dollars (millions),H12,Salaries and wages paid,Financial performance,289,"ANZSIC06 groups A017, A018, and A019"
+2019,Level 3,AA14,"Poultry, Deer and Other Livestock Farming",Dollars (millions),H13,Redundancy and severance,Financial performance,0,"ANZSIC06 groups A017, A018, and A019"
+2019,Level 3,AA14,"Poultry, Deer and Other Livestock Farming",Dollars (millions),H19,Purchases and other operating expenses,Financial performance,"1,478","ANZSIC06 groups A017, A018, and A019"
+2019,Level 3,AA14,"Poultry, Deer and Other Livestock Farming",Dollars (millions),H20,Non-operating expenses,Financial performance,7,"ANZSIC06 groups A017, A018, and A019"
+2019,Level 3,AA14,"Poultry, Deer and Other Livestock Farming",Dollars (millions),H21,Opening stocks,Financial performance,679,"ANZSIC06 groups A017, A018, and A019"
+2019,Level 3,AA14,"Poultry, Deer and Other Livestock Farming",Dollars (millions),H22,Closing stocks,Financial performance,723,"ANZSIC06 groups A017, A018, and A019"
+2019,Level 3,AA14,"Poultry, Deer and Other Livestock Farming",Dollars (millions),H23,Surplus before income tax,Financial performance,170,"ANZSIC06 groups A017, A018, and A019"
+2019,Level 3,AA14,"Poultry, Deer and Other Livestock Farming",Dollars (millions),H24,Total assets,Financial position,"6,758","ANZSIC06 groups A017, A018, and A019"
+2019,Level 3,AA14,"Poultry, Deer and Other Livestock Farming",Dollars (millions),H25,Current assets,Financial position,"1,891","ANZSIC06 groups A017, A018, and A019"
+2019,Level 3,AA14,"Poultry, Deer and Other Livestock Farming",Dollars (millions),H26,Fixed tangible assets,Financial position,"3,930","ANZSIC06 groups A017, A018, and A019"
+2019,Level 3,AA14,"Poultry, Deer and Other Livestock Farming",Dollars (millions),H29,Other assets,Financial position,936,"ANZSIC06 groups A017, A018, and A019"
+2019,Level 3,AA14,"Poultry, Deer and Other Livestock Farming",Dollars (millions),H30,Total equity and liabilities,Financial position,"6,758","ANZSIC06 groups A017, A018, and A019"
+2019,Level 3,AA14,"Poultry, Deer and Other Livestock Farming",Dollars (millions),H31,Shareholders funds or owners equity,Financial position,"2,863","ANZSIC06 groups A017, A018, and A019"
+2019,Level 3,AA14,"Poultry, Deer and Other Livestock Farming",Dollars (millions),H32,Current liabilities,Financial position,"1,680","ANZSIC06 groups A017, A018, and A019"
+2019,Level 3,AA14,"Poultry, Deer and Other Livestock Farming",Dollars (millions),H33,Other liabilities,Financial position,"2,214","ANZSIC06 groups A017, A018, and A019"
+2019,Level 3,AA14,"Poultry, Deer and Other Livestock Farming",Dollars,H34,Total income per employee count,Financial ratios,"346,700","ANZSIC06 groups A017, A018, and A019"
+2019,Level 3,AA14,"Poultry, Deer and Other Livestock Farming",Dollars,H35,Surplus per employee count,Financial ratios,"27,800","ANZSIC06 groups A017, A018, and A019"
+2019,Level 3,AA14,"Poultry, Deer and Other Livestock Farming",Percentage,H36,Current ratio,Financial ratios,113,"ANZSIC06 groups A017, A018, and A019"
+2019,Level 3,AA14,"Poultry, Deer and Other Livestock Farming",Percentage,H37,Quick ratio,Financial ratios,70,"ANZSIC06 groups A017, A018, and A019"
+2019,Level 3,AA14,"Poultry, Deer and Other Livestock Farming",Percentage,H39,Return on equity,Financial ratios,6,"ANZSIC06 groups A017, A018, and A019"
+2019,Level 3,AA14,"Poultry, Deer and Other Livestock Farming",Percentage,H40,Return on total assets,Financial ratios,3,"ANZSIC06 groups A017, A018, and A019"
+2019,Level 3,AA14,"Poultry, Deer and Other Livestock Farming",Percentage,H41,Liabilities structure,Financial ratios,42,"ANZSIC06 groups A017, A018, and A019"
+2019,Level 4,AA141,"Poultry, Deer and Other Livestock Farming",Dollars (millions),H01,Total income,Financial performance,"2,127","ANZSIC06 groups A017, A018, and A019"
+2019,Level 4,AA141,"Poultry, Deer and Other Livestock Farming",Dollars (millions),H04,"Sales, government funding, grants and subsidies",Financial performance,"2,071","ANZSIC06 groups A017, A018, and A019"
+2019,Level 4,AA141,"Poultry, Deer and Other Livestock Farming",Dollars (millions),H05,"Interest, dividends and donations",Financial performance,22,"ANZSIC06 groups A017, A018, and A019"
+2019,Level 4,AA141,"Poultry, Deer and Other Livestock Farming",Dollars (millions),H07,Non-operating income,Financial performance,35,"ANZSIC06 groups A017, A018, and A019"
+2019,Level 4,AA141,"Poultry, Deer and Other Livestock Farming",Dollars (millions),H08,Total expenditure,Financial performance,"2,001","ANZSIC06 groups A017, A018, and A019"
+2019,Level 4,AA141,"Poultry, Deer and Other Livestock Farming",Dollars (millions),H09,Interest and donations,Financial performance,101,"ANZSIC06 groups A017, A018, and A019"
+2019,Level 4,AA141,"Poultry, Deer and Other Livestock Farming",Dollars (millions),H10,Indirect taxes,Financial performance,15,"ANZSIC06 groups A017, A018, and A019"
+2019,Level 4,AA141,"Poultry, Deer and Other Livestock Farming",Dollars (millions),H11,Depreciation,Financial performance,112,"ANZSIC06 groups A017, A018, and A019"
+2019,Level 4,AA141,"Poultry, Deer and Other Livestock Farming",Dollars (millions),H12,Salaries and wages paid,Financial performance,289,"ANZSIC06 groups A017, A018, and A019"
+2019,Level 4,AA141,"Poultry, Deer and Other Livestock Farming",Dollars (millions),H13,Redundancy and severance,Financial performance,0,"ANZSIC06 groups A017, A018, and A019"
+2019,Level 4,AA141,"Poultry, Deer and Other Livestock Farming",Dollars (millions),H19,Purchases and other operating expenses,Financial performance,"1,478","ANZSIC06 groups A017, A018, and A019"
+2019,Level 4,AA141,"Poultry, Deer and Other Livestock Farming",Dollars (millions),H20,Non-operating expenses,Financial performance,7,"ANZSIC06 groups A017, A018, and A019"
+2019,Level 4,AA141,"Poultry, Deer and Other Livestock Farming",Dollars (millions),H21,Opening stocks,Financial performance,679,"ANZSIC06 groups A017, A018, and A019"
+2019,Level 4,AA141,"Poultry, Deer and Other Livestock Farming",Dollars (millions),H22,Closing stocks,Financial performance,723,"ANZSIC06 groups A017, A018, and A019"
+2019,Level 4,AA141,"Poultry, Deer and Other Livestock Farming",Dollars (millions),H23,Surplus before income tax,Financial performance,170,"ANZSIC06 groups A017, A018, and A019"
+2019,Level 4,AA141,"Poultry, Deer and Other Livestock Farming",Dollars (millions),H24,Total assets,Financial position,"6,758","ANZSIC06 groups A017, A018, and A019"
+2019,Level 4,AA141,"Poultry, Deer and Other Livestock Farming",Dollars (millions),H25,Current assets,Financial position,"1,891","ANZSIC06 groups A017, A018, and A019"
+2019,Level 4,AA141,"Poultry, Deer and Other Livestock Farming",Dollars (millions),H26,Fixed tangible assets,Financial position,"3,930","ANZSIC06 groups A017, A018, and A019"
+2019,Level 4,AA141,"Poultry, Deer and Other Livestock Farming",Dollars (millions),H29,Other assets,Financial position,936,"ANZSIC06 groups A017, A018, and A019"
+2019,Level 4,AA141,"Poultry, Deer and Other Livestock Farming",Dollars (millions),H30,Total equity and liabilities,Financial position,"6,758","ANZSIC06 groups A017, A018, and A019"
+2019,Level 4,AA141,"Poultry, Deer and Other Livestock Farming",Dollars (millions),H31,Shareholders funds or owners equity,Financial position,"2,863","ANZSIC06 groups A017, A018, and A019"
+2019,Level 4,AA141,"Poultry, Deer and Other Livestock Farming",Dollars (millions),H32,Current liabilities,Financial position,"1,680","ANZSIC06 groups A017, A018, and A019"
+2019,Level 4,AA141,"Poultry, Deer and Other Livestock Farming",Dollars (millions),H33,Other liabilities,Financial position,"2,214","ANZSIC06 groups A017, A018, and A019"
+2019,Level 4,AA141,"Poultry, Deer and Other Livestock Farming",Dollars,H34,Total income per employee count,Financial ratios,"346,700","ANZSIC06 groups A017, A018, and A019"
+2019,Level 4,AA141,"Poultry, Deer and Other Livestock Farming",Dollars,H35,Surplus per employee count,Financial ratios,"27,800","ANZSIC06 groups A017, A018, and A019"
+2019,Level 4,AA141,"Poultry, Deer and Other Livestock Farming",Percentage,H36,Current ratio,Financial ratios,113,"ANZSIC06 groups A017, A018, and A019"
+2019,Level 4,AA141,"Poultry, Deer and Other Livestock Farming",Percentage,H37,Quick ratio,Financial ratios,70,"ANZSIC06 groups A017, A018, and A019"
+2019,Level 4,AA141,"Poultry, Deer and Other Livestock Farming",Percentage,H39,Return on equity,Financial ratios,6,"ANZSIC06 groups A017, A018, and A019"
+2019,Level 4,AA141,"Poultry, Deer and Other Livestock Farming",Percentage,H40,Return on total assets,Financial ratios,3,"ANZSIC06 groups A017, A018, and A019"
+2019,Level 4,AA141,"Poultry, Deer and Other Livestock Farming",Percentage,H41,Liabilities structure,Financial ratios,42,"ANZSIC06 groups A017, A018, and A019"
+2019,Level 3,AA21,Forestry and Logging,Dollars (millions),H01,Total income,Financial performance,"6,766",ANZSIC06 group A030
+2019,Level 3,AA21,Forestry and Logging,Dollars (millions),H04,Sales of goods and services,Financial performance,"6,021",ANZSIC06 group A030
+2019,Level 3,AA21,Forestry and Logging,Dollars (millions),H05,"Interest, dividends and donations",Financial performance,25,ANZSIC06 group A030
+2019,Level 3,AA21,Forestry and Logging,Dollars (millions),H06,"Government funding, grants and subsidies",Financial performance,0,ANZSIC06 group A030
+2019,Level 3,AA21,Forestry and Logging,Dollars (millions),H07,Non-operating income,Financial performance,721,ANZSIC06 group A030
+2019,Level 3,AA21,Forestry and Logging,Dollars (millions),H08,Total expenditure,Financial performance,"5,092",ANZSIC06 group A030
+2019,Level 3,AA21,Forestry and Logging,Dollars (millions),H09,Interest and donations,Financial performance,172,ANZSIC06 group A030
+2019,Level 3,AA21,Forestry and Logging,Dollars (millions),H10,Indirect taxes,Financial performance,20,ANZSIC06 group A030
+2019,Level 3,AA21,Forestry and Logging,Dollars (millions),H11,Depreciation,Financial performance,187,ANZSIC06 group A030
+2019,Level 3,AA21,Forestry and Logging,Dollars (millions),H12,Salaries and wages paid,Financial performance,407,ANZSIC06 group A030
+2019,Level 3,AA21,Forestry and Logging,Dollars (millions),H13,Redundancy and severance,Financial performance,0,ANZSIC06 group A030
+2019,Level 3,AA21,Forestry and Logging,Dollars (millions),H19,Purchases and other operating expenses,Financial performance,"3,915",ANZSIC06 group A030
+2019,Level 3,AA21,Forestry and Logging,Dollars (millions),H20,Non-operating expenses,Financial performance,391,ANZSIC06 group A030
+2019,Level 3,AA21,Forestry and Logging,Dollars (millions),H21,Opening stocks,Financial performance,293,ANZSIC06 group A030
+2019,Level 3,AA21,Forestry and Logging,Dollars (millions),H22,Closing stocks,Financial performance,269,ANZSIC06 group A030
+2019,Level 3,AA21,Forestry and Logging,Dollars (millions),H23,Surplus before income tax,Financial performance,"1,650",ANZSIC06 group A030
+2019,Level 3,AA21,Forestry and Logging,Dollars (millions),H24,Total assets,Financial position,"23,670",ANZSIC06 group A030
+2019,Level 3,AA21,Forestry and Logging,Dollars (millions),H25,Current assets,Financial position,"2,505",ANZSIC06 group A030
+2019,Level 3,AA21,Forestry and Logging,Dollars (millions),H26,Fixed tangible assets,Financial position,"4,315",ANZSIC06 group A030
+2019,Level 3,AA21,Forestry and Logging,Dollars (millions),H29,Other assets,Financial position,"16,851",ANZSIC06 group A030
+2019,Level 3,AA21,Forestry and Logging,Dollars (millions),H30,Total equity and liabilities,Financial position,"23,670",ANZSIC06 group A030
+2019,Level 3,AA21,Forestry and Logging,Dollars (millions),H31,Shareholders funds or owners equity,Financial position,"15,167",ANZSIC06 group A030
+2019,Level 3,AA21,Forestry and Logging,Dollars (millions),H32,Current liabilities,Financial position,"2,660",ANZSIC06 group A030
+2019,Level 3,AA21,Forestry and Logging,Dollars (millions),H33,Other liabilities,Financial position,"5,843",ANZSIC06 group A030
+2019,Level 3,AA21,Forestry and Logging,Dollars,H34,Total income per employee count,Financial ratios,"1,329,400",ANZSIC06 group A030
+2019,Level 3,AA21,Forestry and Logging,Dollars,H35,Surplus per employee count,Financial ratios,"324,300",ANZSIC06 group A030
+2019,Level 3,AA21,Forestry and Logging,Percentage,H36,Current ratio,Financial ratios,94,ANZSIC06 group A030
+2019,Level 3,AA21,Forestry and Logging,Percentage,H37,Quick ratio,Financial ratios,84,ANZSIC06 group A030
+2019,Level 3,AA21,Forestry and Logging,Percentage,H39,Return on equity,Financial ratios,11,ANZSIC06 group A030
+2019,Level 3,AA21,Forestry and Logging,Percentage,H40,Return on total assets,Financial ratios,7,ANZSIC06 group A030
+2019,Level 3,AA21,Forestry and Logging,Percentage,H41,Liabilities structure,Financial ratios,64,ANZSIC06 group A030
+2019,Level 4,AA211,Forestry and Logging,Dollars (millions),H01,Total income,Financial performance,"6,766",ANZSIC06 group A030
+2019,Level 4,AA211,Forestry and Logging,Dollars (millions),H04,Sales of goods and services,Financial performance,"6,021",ANZSIC06 group A030
+2019,Level 4,AA211,Forestry and Logging,Dollars (millions),H05,"Interest, dividends and donations",Financial performance,25,ANZSIC06 group A030
+2019,Level 4,AA211,Forestry and Logging,Dollars (millions),H06,"Government funding, grants and subsidies",Financial performance,0,ANZSIC06 group A030
+2019,Level 4,AA211,Forestry and Logging,Dollars (millions),H07,Non-operating income,Financial performance,721,ANZSIC06 group A030
+2019,Level 4,AA211,Forestry and Logging,Dollars (millions),H08,Total expenditure,Financial performance,"5,092",ANZSIC06 group A030
+2019,Level 4,AA211,Forestry and Logging,Dollars (millions),H09,Interest and donations,Financial performance,172,ANZSIC06 group A030
+2019,Level 4,AA211,Forestry and Logging,Dollars (millions),H10,Indirect taxes,Financial performance,20,ANZSIC06 group A030
+2019,Level 4,AA211,Forestry and Logging,Dollars (millions),H11,Depreciation,Financial performance,187,ANZSIC06 group A030
+2019,Level 4,AA211,Forestry and Logging,Dollars (millions),H12,Salaries and wages paid,Financial performance,407,ANZSIC06 group A030
+2019,Level 4,AA211,Forestry and Logging,Dollars (millions),H13,Redundancy and severance,Financial performance,0,ANZSIC06 group A030
+2019,Level 4,AA211,Forestry and Logging,Dollars (millions),H19,Purchases and other operating expenses,Financial performance,"3,915",ANZSIC06 group A030
+2019,Level 4,AA211,Forestry and Logging,Dollars (millions),H20,Non-operating expenses,Financial performance,391,ANZSIC06 group A030
+2019,Level 4,AA211,Forestry and Logging,Dollars (millions),H21,Opening stocks,Financial performance,293,ANZSIC06 group A030
+2019,Level 4,AA211,Forestry and Logging,Dollars (millions),H22,Closing stocks,Financial performance,269,ANZSIC06 group A030
+2019,Level 4,AA211,Forestry and Logging,Dollars (millions),H23,Surplus before income tax,Financial performance,"1,650",ANZSIC06 group A030
+2019,Level 4,AA211,Forestry and Logging,Dollars (millions),H24,Total assets,Financial position,"23,670",ANZSIC06 group A030
+2019,Level 4,AA211,Forestry and Logging,Dollars (millions),H25,Current assets,Financial position,"2,505",ANZSIC06 group A030
+2019,Level 4,AA211,Forestry and Logging,Dollars (millions),H26,Fixed tangible assets,Financial position,"4,315",ANZSIC06 group A030
+2019,Level 4,AA211,Forestry and Logging,Dollars (millions),H29,Other assets,Financial position,"16,851",ANZSIC06 group A030
+2019,Level 4,AA211,Forestry and Logging,Dollars (millions),H30,Total equity and liabilities,Financial position,"23,670",ANZSIC06 group A030
+2019,Level 4,AA211,Forestry and Logging,Dollars (millions),H31,Shareholders funds or owners equity,Financial position,"15,167",ANZSIC06 group A030
+2019,Level 4,AA211,Forestry and Logging,Dollars (millions),H32,Current liabilities,Financial position,"2,660",ANZSIC06 group A030
+2019,Level 4,AA211,Forestry and Logging,Dollars (millions),H33,Other liabilities,Financial position,"5,843",ANZSIC06 group A030
+2019,Level 4,AA211,Forestry and Logging,Dollars,H34,Total income per employee count,Financial ratios,"1,329,400",ANZSIC06 group A030
+2019,Level 4,AA211,Forestry and Logging,Dollars,H35,Surplus per employee count,Financial ratios,"324,300",ANZSIC06 group A030
+2019,Level 4,AA211,Forestry and Logging,Percentage,H36,Current ratio,Financial ratios,94,ANZSIC06 group A030
+2019,Level 4,AA211,Forestry and Logging,Percentage,H37,Quick ratio,Financial ratios,84,ANZSIC06 group A030
+2019,Level 4,AA211,Forestry and Logging,Percentage,H39,Return on equity,Financial ratios,11,ANZSIC06 group A030
+2019,Level 4,AA211,Forestry and Logging,Percentage,H40,Return on total assets,Financial ratios,7,ANZSIC06 group A030
+2019,Level 4,AA211,Forestry and Logging,Percentage,H41,Liabilities structure,Financial ratios,64,ANZSIC06 group A030
+2019,Level 3,AA31,Fishing and Aquaculture,Dollars (millions),H01,Total income,Financial performance,"1,575",ANZSIC06 groups A020 and A041
+2019,Level 3,AA31,Fishing and Aquaculture,Dollars (millions),H04,"Sales, government funding, grants and subsidies",Financial performance,"1,506",ANZSIC06 groups A020 and A041
+2019,Level 3,AA31,Fishing and Aquaculture,Dollars (millions),H05,"Interest, dividends and donations",Financial performance,45,ANZSIC06 groups A020 and A041
+2019,Level 3,AA31,Fishing and Aquaculture,Dollars (millions),H07,Non-operating income,Financial performance,24,ANZSIC06 groups A020 and A041
+2019,Level 3,AA31,Fishing and Aquaculture,Dollars (millions),H08,Total expenditure,Financial performance,"1,330",ANZSIC06 groups A020 and A041
+2019,Level 3,AA31,Fishing and Aquaculture,Dollars (millions),H09,Interest and donations,Financial performance,25,ANZSIC06 groups A020 and A041
+2019,Level 3,AA31,Fishing and Aquaculture,Dollars (millions),H10,Indirect taxes,Financial performance,20,ANZSIC06 groups A020 and A041
+2019,Level 3,AA31,Fishing and Aquaculture,Dollars (millions),H11,Depreciation,Financial performance,64,ANZSIC06 groups A020 and A041
+2019,Level 3,AA31,Fishing and Aquaculture,Dollars (millions),H12,Salaries and wages paid,Financial performance,229,ANZSIC06 groups A020 and A041
+2019,Level 3,AA31,Fishing and Aquaculture,Dollars (millions),H13,Redundancy and severance,Financial performance,0,ANZSIC06 groups A020 and A041
+2019,Level 3,AA31,Fishing and Aquaculture,Dollars (millions),H19,Purchases and other operating expenses,Financial performance,981,ANZSIC06 groups A020 and A041
+2019,Level 3,AA31,Fishing and Aquaculture,Dollars (millions),H20,Non-operating expenses,Financial performance,11,ANZSIC06 groups A020 and A041
+2019,Level 3,AA31,Fishing and Aquaculture,Dollars (millions),H21,Opening stocks,Financial performance,161,ANZSIC06 groups A020 and A041
+2019,Level 3,AA31,Fishing and Aquaculture,Dollars (millions),H22,Closing stocks,Financial performance,158,ANZSIC06 groups A020 and A041
+2019,Level 3,AA31,Fishing and Aquaculture,Dollars (millions),H23,Surplus before income tax,Financial performance,242,ANZSIC06 groups A020 and A041
+2019,Level 3,AA31,Fishing and Aquaculture,Dollars (millions),H24,Total assets,Financial position,"2,237",ANZSIC06 groups A020 and A041
+2019,Level 3,AA31,Fishing and Aquaculture,Dollars (millions),H25,Current assets,Financial position,643,ANZSIC06 groups A020 and A041
+2019,Level 3,AA31,Fishing and Aquaculture,Dollars (millions),H26,Fixed tangible assets,Financial position,619,ANZSIC06 groups A020 and A041
+2019,Level 3,AA31,Fishing and Aquaculture,Dollars (millions),H29,Other assets,Financial position,975,ANZSIC06 groups A020 and A041
+2019,Level 3,AA31,Fishing and Aquaculture,Dollars (millions),H30,Total equity and liabilities,Financial position,"2,237",ANZSIC06 groups A020 and A041
+2019,Level 3,AA31,Fishing and Aquaculture,Dollars (millions),H31,Shareholders funds or owners equity,Financial position,"1,114",ANZSIC06 groups A020 and A041
+2019,Level 3,AA31,Fishing and Aquaculture,Dollars (millions),H32,Current liabilities,Financial position,429,ANZSIC06 groups A020 and A041
+2019,Level 3,AA31,Fishing and Aquaculture,Dollars (millions),H33,Other liabilities,Financial position,695,ANZSIC06 groups A020 and A041
+2019,Level 3,AA31,Fishing and Aquaculture,Dollars,H34,Total income per employee count,Financial ratios,"521,500",ANZSIC06 groups A020 and A041
+2019,Level 3,AA31,Fishing and Aquaculture,Dollars,H35,Surplus per employee count,Financial ratios,"80,300",ANZSIC06 groups A020 and A041
+2019,Level 3,AA31,Fishing and Aquaculture,Percentage,H36,Current ratio,Financial ratios,150,ANZSIC06 groups A020 and A041
+2019,Level 3,AA31,Fishing and Aquaculture,Percentage,H37,Quick ratio,Financial ratios,113,ANZSIC06 groups A020 and A041
+2019,Level 3,AA31,Fishing and Aquaculture,Percentage,H39,Return on equity,Financial ratios,22,ANZSIC06 groups A020 and A041
+2019,Level 3,AA31,Fishing and Aquaculture,Percentage,H40,Return on total assets,Financial ratios,11,ANZSIC06 groups A020 and A041
+2019,Level 3,AA31,Fishing and Aquaculture,Percentage,H41,Liabilities structure,Financial ratios,50,ANZSIC06 groups A020 and A041
+2019,Level 3,AA32,"Agriculture, Forestry and Fishing Support Services and Hunting",Dollars (millions),H01,Total income,Financial performance,"4,734","ANZSIC06 groups A042, A051, and A052"
+2019,Level 3,AA32,"Agriculture, Forestry and Fishing Support Services and Hunting",Dollars (millions),H04,Sales of goods and services,Financial performance,"4,635","ANZSIC06 groups A042, A051, and A052"
+2019,Level 3,AA32,"Agriculture, Forestry and Fishing Support Services and Hunting",Dollars (millions),H05,"Interest, dividends and donations",Financial performance,31,"ANZSIC06 groups A042, A051, and A052"
+2019,Level 3,AA32,"Agriculture, Forestry and Fishing Support Services and Hunting",Dollars (millions),H06,"Government funding, grants and subsidies",Financial performance,13,"ANZSIC06 groups A042, A051, and A052"
+2019,Level 3,AA32,"Agriculture, Forestry and Fishing Support Services and Hunting",Dollars (millions),H07,Non-operating income,Financial performance,56,"ANZSIC06 groups A042, A051, and A052"
+2019,Level 3,AA32,"Agriculture, Forestry and Fishing Support Services and Hunting",Dollars (millions),H08,Total expenditure,Financial performance,"4,356","ANZSIC06 groups A042, A051, and A052"
+2019,Level 3,AA32,"Agriculture, Forestry and Fishing Support Services and Hunting",Dollars (millions),H09,Interest and donations,Financial performance,127,"ANZSIC06 groups A042, A051, and A052"
+2019,Level 3,AA32,"Agriculture, Forestry and Fishing Support Services and Hunting",Dollars (millions),H10,Indirect taxes,Financial performance,18,"ANZSIC06 groups A042, A051, and A052"
+2019,Level 3,AA32,"Agriculture, Forestry and Fishing Support Services and Hunting",Dollars (millions),H11,Depreciation,Financial performance,266,"ANZSIC06 groups A042, A051, and A052"
+2019,Level 3,AA32,"Agriculture, Forestry and Fishing Support Services and Hunting",Dollars (millions),H12,Salaries and wages paid,Financial performance,"1,314","ANZSIC06 groups A042, A051, and A052"
+2019,Level 3,AA32,"Agriculture, Forestry and Fishing Support Services and Hunting",Dollars (millions),H13,Redundancy and severance,Financial performance,0,"ANZSIC06 groups A042, A051, and A052"
+2019,Level 3,AA32,"Agriculture, Forestry and Fishing Support Services and Hunting",Dollars (millions),H19,Purchases and other operating expenses,Financial performance,"2,588","ANZSIC06 groups A042, A051, and A052"
+2019,Level 3,AA32,"Agriculture, Forestry and Fishing Support Services and Hunting",Dollars (millions),H20,Non-operating expenses,Financial performance,42,"ANZSIC06 groups A042, A051, and A052"
+2019,Level 3,AA32,"Agriculture, Forestry and Fishing Support Services and Hunting",Dollars (millions),H21,Opening stocks,Financial performance,246,"ANZSIC06 groups A042, A051, and A052"
+2019,Level 3,AA32,"Agriculture, Forestry and Fishing Support Services and Hunting",Dollars (millions),H22,Closing stocks,Financial performance,285,"ANZSIC06 groups A042, A051, and A052"
+2019,Level 3,AA32,"Agriculture, Forestry and Fishing Support Services and Hunting",Dollars (millions),H23,Surplus before income tax,Financial performance,418,"ANZSIC06 groups A042, A051, and A052"
+2019,Level 3,AA32,"Agriculture, Forestry and Fishing Support Services and Hunting",Dollars (millions),H24,Total assets,Financial position,"6,635","ANZSIC06 groups A042, A051, and A052"
+2019,Level 3,AA32,"Agriculture, Forestry and Fishing Support Services and Hunting",Dollars (millions),H25,Current assets,Financial position,"1,742","ANZSIC06 groups A042, A051, and A052"
+2019,Level 3,AA32,"Agriculture, Forestry and Fishing Support Services and Hunting",Dollars (millions),H26,Fixed tangible assets,Financial position,"3,750","ANZSIC06 groups A042, A051, and A052"
+2019,Level 3,AA32,"Agriculture, Forestry and Fishing Support Services and Hunting",Dollars (millions),H29,Other assets,Financial position,"1,143","ANZSIC06 groups A042, A051, and A052"
+2019,Level 3,AA32,"Agriculture, Forestry and Fishing Support Services and Hunting",Dollars (millions),H30,Total equity and liabilities,Financial position,"6,635","ANZSIC06 groups A042, A051, and A052"
+2019,Level 3,AA32,"Agriculture, Forestry and Fishing Support Services and Hunting",Dollars (millions),H31,Shareholders funds or owners equity,Financial position,"2,565","ANZSIC06 groups A042, A051, and A052"
+2019,Level 3,AA32,"Agriculture, Forestry and Fishing Support Services and Hunting",Dollars (millions),H32,Current liabilities,Financial position,"1,742","ANZSIC06 groups A042, A051, and A052"
+2019,Level 3,AA32,"Agriculture, Forestry and Fishing Support Services and Hunting",Dollars (millions),H33,Other liabilities,Financial position,"2,328","ANZSIC06 groups A042, A051, and A052"
+2019,Level 3,AA32,"Agriculture, Forestry and Fishing Support Services and Hunting",Dollars,H34,Total income per employee count,Financial ratios,"164,500","ANZSIC06 groups A042, A051, and A052"
+2019,Level 3,AA32,"Agriculture, Forestry and Fishing Support Services and Hunting",Dollars,H35,Surplus per employee count,Financial ratios,"14,500","ANZSIC06 groups A042, A051, and A052"
+2019,Level 3,AA32,"Agriculture, Forestry and Fishing Support Services and Hunting",Percentage,H36,Current ratio,Financial ratios,100,"ANZSIC06 groups A042, A051, and A052"
+2019,Level 3,AA32,"Agriculture, Forestry and Fishing Support Services and Hunting",Percentage,H37,Quick ratio,Financial ratios,84,"ANZSIC06 groups A042, A051, and A052"
+2019,Level 3,AA32,"Agriculture, Forestry and Fishing Support Services and Hunting",Percentage,H39,Return on equity,Financial ratios,16,"ANZSIC06 groups A042, A051, and A052"
+2019,Level 3,AA32,"Agriculture, Forestry and Fishing Support Services and Hunting",Percentage,H40,Return on total assets,Financial ratios,6,"ANZSIC06 groups A042, A051, and A052"
+2019,Level 3,AA32,"Agriculture, Forestry and Fishing Support Services and Hunting",Percentage,H41,Liabilities structure,Financial ratios,39,"ANZSIC06 groups A042, A051, and A052"
+2019,Level 1,BB,Mining,Dollars (millions),H01,Total income,Financial performance,"6,223",ANZSIC06 division B
+2019,Level 1,BB,Mining,Dollars (millions),H04,Sales of goods and services,Financial performance,"5,129",ANZSIC06 division B
+2019,Level 1,BB,Mining,Dollars (millions),H05,"Interest, dividends and donations",Financial performance,C,ANZSIC06 division B
+2019,Level 1,BB,Mining,Dollars (millions),H06,"Government funding, grants and subsidies",Financial performance,3,ANZSIC06 division B
+2019,Level 1,BB,Mining,Dollars (millions),H07,Non-operating income,Financial performance,C,ANZSIC06 division B
+2019,Level 1,BB,Mining,Dollars (millions),H08,Total expenditure,Financial performance,"4,721",ANZSIC06 division B
+2019,Level 1,BB,Mining,Dollars (millions),H09,Interest and donations,Financial performance,147,ANZSIC06 division B
+2019,Level 1,BB,Mining,Dollars (millions),H10,Indirect taxes,Financial performance,44,ANZSIC06 division B
+2019,Level 1,BB,Mining,Dollars (millions),H11,Depreciation,Financial performance,755,ANZSIC06 division B
+2019,Level 1,BB,Mining,Dollars (millions),H12,Salaries and wages paid,Financial performance,647,ANZSIC06 division B
+2019,Level 1,BB,Mining,Dollars (millions),H13,Redundancy and severance,Financial performance,0,ANZSIC06 division B
+2019,Level 1,BB,Mining,Dollars (millions),H19,Purchases and other operating expenses,Financial performance,"2,523",ANZSIC06 division B
+2019,Level 1,BB,Mining,Dollars (millions),H20,Non-operating expenses,Financial performance,607,ANZSIC06 division B
+2019,Level 1,BB,Mining,Dollars (millions),H21,Opening stocks,Financial performance,274,ANZSIC06 division B
+2019,Level 1,BB,Mining,Dollars (millions),H22,Closing stocks,Financial performance,284,ANZSIC06 division B
+2019,Level 1,BB,Mining,Dollars (millions),H23,Surplus before income tax,Financial performance,"1,512",ANZSIC06 division B
+2019,Level 1,BB,Mining,Dollars (millions),H24,Total assets,Financial position,"19,302",ANZSIC06 division B
+2019,Level 1,BB,Mining,Dollars (millions),H25,Current assets,Financial position,"4,926",ANZSIC06 division B
+2019,Level 1,BB,Mining,Dollars (millions),H26,Fixed tangible assets,Financial position,"8,197",ANZSIC06 division B
+2019,Level 1,BB,Mining,Dollars (millions),H27,Additions to fixed assets,Financial position,928,ANZSIC06 division B
+2019,Level 1,BB,Mining,Dollars (millions),H28,Disposals of fixed assets,Financial position,131,ANZSIC06 division B
+2019,Level 1,BB,Mining,Dollars (millions),H29,Other assets,Financial position,"6,179",ANZSIC06 division B
+2019,Level 1,BB,Mining,Dollars (millions),H30,Total equity and liabilities,Financial position,"19,302",ANZSIC06 division B
+2019,Level 1,BB,Mining,Dollars (millions),H31,Shareholders funds or owners equity,Financial position,"4,639",ANZSIC06 division B
+2019,Level 1,BB,Mining,Dollars (millions),H32,Current liabilities,Financial position,"7,902",ANZSIC06 division B
+2019,Level 1,BB,Mining,Dollars (millions),H33,Other liabilities,Financial position,"6,761",ANZSIC06 division B
+2019,Level 1,BB,Mining,Dollars,H34,Total income per employee count,Financial ratios,"1,211,100",ANZSIC06 division B
+2019,Level 1,BB,Mining,Dollars,H35,Surplus per employee count,Financial ratios,"294,200",ANZSIC06 division B
+2019,Level 1,BB,Mining,Percentage,H36,Current ratio,Financial ratios,62,ANZSIC06 division B
+2019,Level 1,BB,Mining,Percentage,H37,Quick ratio,Financial ratios,59,ANZSIC06 division B
+2019,Level 1,BB,Mining,Percentage,H39,Return on equity,Financial ratios,33,ANZSIC06 division B
+2019,Level 1,BB,Mining,Percentage,H40,Return on total assets,Financial ratios,8,ANZSIC06 division B
+2019,Level 1,BB,Mining,Percentage,H41,Liabilities structure,Financial ratios,24,ANZSIC06 division B
+2019,Level 1,CC,Manufacturing,Dollars (millions),H01,Total income,Financial performance,"118,711",ANZSIC06 division C
+2019,Level 1,CC,Manufacturing,Dollars (millions),H02,Sales of goods not further processed,Financial performance,"10,836",ANZSIC06 division C
+2019,Level 1,CC,Manufacturing,Dollars (millions),H03,Sales of other goods and services,Financial performance,"106,110",ANZSIC06 division C
+2019,Level 1,CC,Manufacturing,Dollars (millions),H05,"Interest, dividends and donations",Financial performance,575,ANZSIC06 division C
+2019,Level 1,CC,Manufacturing,Dollars (millions),H06,"Government funding, grants and subsidies",Financial performance,100,ANZSIC06 division C
+2019,Level 1,CC,Manufacturing,Dollars (millions),H07,Non-operating income,Financial performance,"1,090",ANZSIC06 division C
+2019,Level 1,CC,Manufacturing,Dollars (millions),H08,Total expenditure,Financial performance,"110,985",ANZSIC06 division C
+2019,Level 1,CC,Manufacturing,Dollars (millions),H09,Interest and donations,Financial performance,872,ANZSIC06 division C
+2019,Level 1,CC,Manufacturing,Dollars (millions),H10,Indirect taxes,Financial performance,"3,814",ANZSIC06 division C
+2019,Level 1,CC,Manufacturing,Dollars (millions),H11,Depreciation,Financial performance,"2,974",ANZSIC06 division C
+2019,Level 1,CC,Manufacturing,Dollars (millions),H12,Salaries and wages paid,Financial performance,"15,817",ANZSIC06 division C
+2019,Level 1,CC,Manufacturing,Dollars (millions),H13,Redundancy and severance,Financial performance,33,ANZSIC06 division C
+2019,Level 1,CC,Manufacturing,Dollars (millions),H17,Purchases of goods bought for resale,Financial performance,"8,349",ANZSIC06 division C
+2019,Level 1,CC,Manufacturing,Dollars (millions),H18,Other Purchases and operating expenses,Financial performance,"78,508",ANZSIC06 division C
+2019,Level 1,CC,Manufacturing,Dollars (millions),H20,Non-operating expenses,Financial performance,650,ANZSIC06 division C
+2019,Level 1,CC,Manufacturing,Dollars (millions),H21,Opening stocks,Financial performance,"14,124",ANZSIC06 division C
+2019,Level 1,CC,Manufacturing,Dollars (millions),H22,Closing stocks,Financial performance,"15,223",ANZSIC06 division C
+2019,Level 1,CC,Manufacturing,Dollars (millions),H23,Surplus before income tax,Financial performance,"8,825",ANZSIC06 division C
+2019,Level 1,CC,Manufacturing,Dollars (millions),H24,Total assets,Financial position,"91,311",ANZSIC06 division C
+2019,Level 1,CC,Manufacturing,Dollars (millions),H25,Current assets,Financial position,"42,072",ANZSIC06 division C
+2019,Level 1,CC,Manufacturing,Dollars (millions),H26,Fixed tangible assets,Financial position,"30,723",ANZSIC06 division C
+2019,Level 1,CC,Manufacturing,Dollars (millions),H27,Additions to fixed assets,Financial position,"5,261",ANZSIC06 division C
+2019,Level 1,CC,Manufacturing,Dollars (millions),H28,Disposals of fixed assets,Financial position,"1,059",ANZSIC06 division C
+2019,Level 1,CC,Manufacturing,Dollars (millions),H29,Other assets,Financial position,"18,516",ANZSIC06 division C
+2019,Level 1,CC,Manufacturing,Dollars (millions),H30,Total equity and liabilities,Financial position,"91,311",ANZSIC06 division C
+2019,Level 1,CC,Manufacturing,Dollars (millions),H31,Shareholders funds or owners equity,Financial position,"42,694",ANZSIC06 division C
+2019,Level 1,CC,Manufacturing,Dollars (millions),H32,Current liabilities,Financial position,"29,238",ANZSIC06 division C
+2019,Level 1,CC,Manufacturing,Dollars (millions),H33,Other liabilities,Financial position,"19,378",ANZSIC06 division C
+2019,Level 1,CC,Manufacturing,Dollars,H34,Total income per employee count,Financial ratios,"501,900",ANZSIC06 division C
+2019,Level 1,CC,Manufacturing,Dollars,H35,Surplus per employee count,Financial ratios,"37,300",ANZSIC06 division C
+2019,Level 1,CC,Manufacturing,Percentage,H36,Current ratio,Financial ratios,144,ANZSIC06 division C
+2019,Level 1,CC,Manufacturing,Percentage,H37,Quick ratio,Financial ratios,92,ANZSIC06 division C
+2019,Level 1,CC,Manufacturing,Percentage,H38,Margin on sales of goods for resale,Financial ratios,23,ANZSIC06 division C
+2019,Level 1,CC,Manufacturing,Percentage,H39,Return on equity,Financial ratios,21,ANZSIC06 division C
+2019,Level 1,CC,Manufacturing,Percentage,H40,Return on total assets,Financial ratios,10,ANZSIC06 division C
+2019,Level 1,CC,Manufacturing,Percentage,H41,Liabilities structure,Financial ratios,47,ANZSIC06 division C
+2019,Level 3,CC15,Beverage and Tobacco Product Manufacturing,Dollars (millions),H01,Total income,Financial performance,"6,528",ANZSIC06 groups C121 and C122
+2019,Level 3,CC15,Beverage and Tobacco Product Manufacturing,Dollars (millions),H02,Sales of goods not further processed,Financial performance,314,ANZSIC06 groups C121 and C122
+2019,Level 3,CC15,Beverage and Tobacco Product Manufacturing,Dollars (millions),H03,Sales of other goods and services,Financial performance,"6,074",ANZSIC06 groups C121 and C122
+2019,Level 3,CC15,Beverage and Tobacco Product Manufacturing,Dollars (millions),H05,"Interest, dividends and donations",Financial performance,24,ANZSIC06 groups C121 and C122
+2019,Level 3,CC15,Beverage and Tobacco Product Manufacturing,Dollars (millions),H06,"Government funding, grants and subsidies",Financial performance,1,ANZSIC06 groups C121 and C122
+2013,Level 3,KK12,Insurance,Dollars (millions),H13,Redundancy and severance,Financial performance,7,ANZSIC06 groups K631 and K632
+2013,Level 3,KK12,Insurance,Dollars (millions),H14,Salaries and wages to self employed commission agents,Financial performance,427,ANZSIC06 groups K631 and K632
+2013,Level 3,KK12,Insurance,Dollars (millions),H19,Purchases and other operating expenses,Financial performance,5807,ANZSIC06 groups K631 and K632
+2013,Level 3,KK12,Insurance,Dollars (millions),H20,Non-operating expenses,Financial performance,743,ANZSIC06 groups K631 and K632
+2013,Level 3,KK12,Insurance,Dollars (millions),H21,Opening stocks,Financial performance,0,ANZSIC06 groups K631 and K632
+2013,Level 3,KK12,Insurance,Dollars (millions),H22,Closing stocks,Financial performance,0,ANZSIC06 groups K631 and K632
+2013,Level 3,KK12,Insurance,Dollars (millions),H23,Surplus before income tax,Financial performance,972,ANZSIC06 groups K631 and K632
+2013,Level 3,KK12,Insurance,Dollars (millions),H24,Total assets,Financial position,34889,ANZSIC06 groups K631 and K632
+2013,Level 3,KK12,Insurance,Dollars (millions),H30,Total equity and liabilities,Financial position,34889,ANZSIC06 groups K631 and K632
+2013,Level 3,KK12,Insurance,Dollars (millions),H31,Shareholders funds or owners equity,Financial position,7938,ANZSIC06 groups K631 and K632
+2013,Level 3,KK12,Insurance,Dollars,H34,Total income per employee count,Financial ratios,937500,ANZSIC06 groups K631 and K632
+2013,Level 3,KK12,Insurance,Dollars,H35,Surplus per employee count,Financial ratios,104200,ANZSIC06 groups K631 and K632
+2013,Level 3,KK12,Insurance,Percentage,H39,Return on equity,Financial ratios,12,ANZSIC06 groups K631 and K632
+2013,Level 3,KK12,Insurance,Percentage,H40,Return on total assets,Financial ratios,3,ANZSIC06 groups K631 and K632
+2013,Level 3,KK12,Insurance,Percentage,H41,Liabilities structure,Financial ratios,23,ANZSIC06 groups K631 and K632
+2013,Level 4,KK121,Life Insurance,Dollars (millions),H01,Total income,Financial performance,3225,ANZSIC06 group K631
+2013,Level 4,KK121,Life Insurance,Dollars (millions),H04,Sales of goods and services,Financial performance,2012,ANZSIC06 group K631
+2013,Level 4,KK121,Life Insurance,Dollars (millions),H05,"Interest, dividends and donations",Financial performance,334,ANZSIC06 group K631
+2013,Level 4,KK121,Life Insurance,Dollars (millions),H06,"Government funding, grants and subsidies",Financial performance,0,ANZSIC06 group K631
+2013,Level 4,KK121,Life Insurance,Dollars (millions),H07,Non-operating income,Financial performance,879,ANZSIC06 group K631
+2013,Level 4,KK121,Life Insurance,Dollars (millions),H08,Total expenditure,Financial performance,2730,ANZSIC06 group K631
+2013,Level 4,KK121,Life Insurance,Dollars (millions),H09,Interest and donations,Financial performance,C,ANZSIC06 group K631
+2013,Level 4,KK121,Life Insurance,Dollars (millions),H10,Indirect taxes,Financial performance,C,ANZSIC06 group K631
+2013,Level 4,KK121,Life Insurance,Dollars (millions),H11,Depreciation,Financial performance,12,ANZSIC06 group K631
+2013,Level 4,KK121,Life Insurance,Dollars (millions),H12,Salaries and wages paid,Financial performance,96,ANZSIC06 group K631
+2013,Level 4,KK121,Life Insurance,Dollars (millions),H13,Redundancy and severance,Financial performance,0,ANZSIC06 group K631
+2013,Level 4,KK121,Life Insurance,Dollars (millions),H14,Salaries and wages to self employed commission agents,Financial performance,288,ANZSIC06 group K631
+2013,Level 4,KK121,Life Insurance,Dollars (millions),H19,Purchases and other operating expenses,Financial performance,1746,ANZSIC06 group K631
+2013,Level 4,KK121,Life Insurance,Dollars (millions),H20,Non-operating expenses,Financial performance,585,ANZSIC06 group K631
+2013,Level 4,KK121,Life Insurance,Dollars (millions),H21,Opening stocks,Financial performance,0,ANZSIC06 group K631
+2013,Level 4,KK121,Life Insurance,Dollars (millions),H22,Closing stocks,Financial performance,0,ANZSIC06 group K631
+2013,Level 4,KK121,Life Insurance,Dollars (millions),H23,Surplus before income tax,Financial performance,495,ANZSIC06 group K631
+2013,Level 4,KK121,Life Insurance,Dollars (millions),H24,Total assets,Financial position,12732,ANZSIC06 group K631
+2013,Level 4,KK121,Life Insurance,Dollars (millions),H30,Total equity and liabilities,Financial position,12732,ANZSIC06 group K631
+2013,Level 4,KK121,Life Insurance,Dollars (millions),H31,Shareholders funds or owners equity,Financial position,4163,ANZSIC06 group K631
+2013,Level 4,KK121,Life Insurance,Dollars,H34,Total income per employee count,Financial ratios,2718100,ANZSIC06 group K631
+2013,Level 4,KK121,Life Insurance,Dollars,H35,Surplus per employee count,Financial ratios,417300,ANZSIC06 group K631
+2013,Level 4,KK121,Life Insurance,Percentage,H39,Return on equity,Financial ratios,12,ANZSIC06 group K631
+2013,Level 4,KK121,Life Insurance,Percentage,H40,Return on total assets,Financial ratios,4,ANZSIC06 group K631
+2013,Level 4,KK121,Life Insurance,Percentage,H41,Liabilities structure,Financial ratios,33,ANZSIC06 group K631
+2013,Level 4,KK122,Health and General Insurance,Dollars (millions),H01,Total income,Financial performance,5520,ANZSIC06 group K632
+2013,Level 4,KK122,Health and General Insurance,Dollars (millions),H04,Sales of goods and services,Financial performance,5016,ANZSIC06 group K632
+2013,Level 4,KK122,Health and General Insurance,Dollars (millions),H05,"Interest, dividends and donations",Financial performance,353,ANZSIC06 group K632
+2013,Level 4,KK122,Health and General Insurance,Dollars (millions),H06,"Government funding, grants and subsidies",Financial performance,0,ANZSIC06 group K632
+2013,Level 4,KK122,Health and General Insurance,Dollars (millions),H07,Non-operating income,Financial performance,151,ANZSIC06 group K632
+2013,Level 4,KK122,Health and General Insurance,Dollars (millions),H08,Total expenditure,Financial performance,5044,ANZSIC06 group K632
+2013,Level 4,KK122,Health and General Insurance,Dollars (millions),H09,Interest and donations,Financial performance,C,ANZSIC06 group K632
+2013,Level 4,KK122,Health and General Insurance,Dollars (millions),H10,Indirect taxes,Financial performance,C,ANZSIC06 group K632
+2013,Level 4,KK122,Health and General Insurance,Dollars (millions),H11,Depreciation,Financial performance,38,ANZSIC06 group K632
+2013,Level 4,KK122,Health and General Insurance,Dollars (millions),H12,Salaries and wages paid,Financial performance,626,ANZSIC06 group K632
+2013,Level 4,KK122,Health and General Insurance,Dollars (millions),H13,Redundancy and severance,Financial performance,7,ANZSIC06 group K632
+2013,Level 4,KK122,Health and General Insurance,Dollars (millions),H14,Salaries and wages to self employed commission agents,Financial performance,139,ANZSIC06 group K632
+2013,Level 4,KK122,Health and General Insurance,Dollars (millions),H19,Purchases and other operating expenses,Financial performance,4061,ANZSIC06 group K632
+2013,Level 4,KK122,Health and General Insurance,Dollars (millions),H20,Non-operating expenses,Financial performance,159,ANZSIC06 group K632
+2013,Level 4,KK122,Health and General Insurance,Dollars (millions),H21,Opening stocks,Financial performance,0,ANZSIC06 group K632
+2013,Level 4,KK122,Health and General Insurance,Dollars (millions),H22,Closing stocks,Financial performance,0,ANZSIC06 group K632
+2013,Level 4,KK122,Health and General Insurance,Dollars (millions),H23,Surplus before income tax,Financial performance,477,ANZSIC06 group K632
+2013,Level 4,KK122,Health and General Insurance,Dollars (millions),H24,Total assets,Financial position,22157,ANZSIC06 group K632
+2013,Level 4,KK122,Health and General Insurance,Dollars (millions),H30,Total equity and liabilities,Financial position,22157,ANZSIC06 group K632
+2013,Level 4,KK122,Health and General Insurance,Dollars (millions),H31,Shareholders funds or owners equity,Financial position,3775,ANZSIC06 group K632
+2013,Level 4,KK122,Health and General Insurance,Dollars,H34,Total income per employee count,Financial ratios,678100,ANZSIC06 group K632
+2013,Level 4,KK122,Health and General Insurance,Dollars,H35,Surplus per employee count,Financial ratios,58500,ANZSIC06 group K632
+2013,Level 4,KK122,Health and General Insurance,Percentage,H39,Return on equity,Financial ratios,13,ANZSIC06 group K632
+2013,Level 4,KK122,Health and General Insurance,Percentage,H40,Return on total assets,Financial ratios,2,ANZSIC06 group K632
+2013,Level 4,KK122,Health and General Insurance,Percentage,H41,Liabilities structure,Financial ratios,17,ANZSIC06 group K632
+2013,Level 3,KK13,Auxiliary Finance and Insurance Services,Dollars (millions),H01,Total income,Financial performance,4595,ANZSIC06 groups K641 and K642
+2013,Level 3,KK13,Auxiliary Finance and Insurance Services,Dollars (millions),H04,Sales of goods and services,Financial performance,3888,ANZSIC06 groups K641 and K642
+2013,Level 3,KK13,Auxiliary Finance and Insurance Services,Dollars (millions),H05,"Interest, dividends and donations",Financial performance,514,ANZSIC06 groups K641 and K642
+2013,Level 3,KK13,Auxiliary Finance and Insurance Services,Dollars (millions),H06,"Government funding, grants and subsidies",Financial performance,12,ANZSIC06 groups K641 and K642
+2013,Level 3,KK13,Auxiliary Finance and Insurance Services,Dollars (millions),H07,Non-operating income,Financial performance,180,ANZSIC06 groups K641 and K642
+2013,Level 3,KK13,Auxiliary Finance and Insurance Services,Dollars (millions),H08,Total expenditure,Financial performance,3665,ANZSIC06 groups K641 and K642
+2013,Level 3,KK13,Auxiliary Finance and Insurance Services,Dollars (millions),H09,Interest and donations,Financial performance,194,ANZSIC06 groups K641 and K642
+2013,Level 3,KK13,Auxiliary Finance and Insurance Services,Dollars (millions),H10,Indirect taxes,Financial performance,13,ANZSIC06 groups K641 and K642
+2013,Level 3,KK13,Auxiliary Finance and Insurance Services,Dollars (millions),H11,Depreciation,Financial performance,91,ANZSIC06 groups K641 and K642
+2013,Level 3,KK13,Auxiliary Finance and Insurance Services,Dollars (millions),H12,Salaries and wages paid,Financial performance,1395,ANZSIC06 groups K641 and K642
+2013,Level 3,KK13,Auxiliary Finance and Insurance Services,Dollars (millions),H13,Redundancy and severance,Financial performance,9,ANZSIC06 groups K641 and K642
+2013,Level 3,KK13,Auxiliary Finance and Insurance Services,Dollars (millions),H14,Salaries and wages to self employed commission agents,Financial performance,71,ANZSIC06 groups K641 and K642
+2013,Level 3,KK13,Auxiliary Finance and Insurance Services,Dollars (millions),H19,Purchases and other operating expenses,Financial performance,1780,ANZSIC06 groups K641 and K642
+2013,Level 3,KK13,Auxiliary Finance and Insurance Services,Dollars (millions),H20,Non-operating expenses,Financial performance,122,ANZSIC06 groups K641 and K642
+2013,Level 3,KK13,Auxiliary Finance and Insurance Services,Dollars (millions),H21,Opening stocks,Financial performance,9,ANZSIC06 groups K641 and K642
+2013,Level 3,KK13,Auxiliary Finance and Insurance Services,Dollars (millions),H22,Closing stocks,Financial performance,10,ANZSIC06 groups K641 and K642
+2013,Level 3,KK13,Auxiliary Finance and Insurance Services,Dollars (millions),H23,Surplus before income tax,Financial performance,931,ANZSIC06 groups K641 and K642
+2013,Level 3,KK13,Auxiliary Finance and Insurance Services,Dollars (millions),H24,Total assets,Financial position,10956,ANZSIC06 groups K641 and K642
+2013,Level 3,KK13,Auxiliary Finance and Insurance Services,Dollars (millions),H30,Total equity and liabilities,Financial position,10956,ANZSIC06 groups K641 and K642
+2013,Level 3,KK13,Auxiliary Finance and Insurance Services,Dollars (millions),H31,Shareholders funds or owners equity,Financial position,4517,ANZSIC06 groups K641 and K642
+2013,Level 3,KK13,Auxiliary Finance and Insurance Services,Dollars,H34,Total income per employee count,Financial ratios,312200,ANZSIC06 groups K641 and K642
+2013,Level 3,KK13,Auxiliary Finance and Insurance Services,Dollars,H35,Surplus per employee count,Financial ratios,63300,ANZSIC06 groups K641 and K642
+2013,Level 3,KK13,Auxiliary Finance and Insurance Services,Percentage,H39,Return on equity,Financial ratios,21,ANZSIC06 groups K641 and K642
+2013,Level 3,KK13,Auxiliary Finance and Insurance Services,Percentage,H40,Return on total assets,Financial ratios,8,ANZSIC06 groups K641 and K642
+2013,Level 3,KK13,Auxiliary Finance and Insurance Services,Percentage,H41,Liabilities structure,Financial ratios,41,ANZSIC06 groups K641 and K642
+2013,Level 4,KK131,Auxiliary Finance and Insurance Services,Dollars (millions),H01,Total income,Financial performance,4595,ANZSIC06 groups K641 and K642
+2013,Level 4,KK131,Auxiliary Finance and Insurance Services,Dollars (millions),H04,Sales of goods and services,Financial performance,3888,ANZSIC06 groups K641 and K642
+2013,Level 4,KK131,Auxiliary Finance and Insurance Services,Dollars (millions),H05,"Interest, dividends and donations",Financial performance,514,ANZSIC06 groups K641 and K642
+2013,Level 4,KK131,Auxiliary Finance and Insurance Services,Dollars (millions),H06,"Government funding, grants and subsidies",Financial performance,12,ANZSIC06 groups K641 and K642
+2013,Level 4,KK131,Auxiliary Finance and Insurance Services,Dollars (millions),H07,Non-operating income,Financial performance,180,ANZSIC06 groups K641 and K642
+2013,Level 4,KK131,Auxiliary Finance and Insurance Services,Dollars (millions),H08,Total expenditure,Financial performance,3665,ANZSIC06 groups K641 and K642
+2013,Level 4,KK131,Auxiliary Finance and Insurance Services,Dollars (millions),H09,Interest and donations,Financial performance,194,ANZSIC06 groups K641 and K642
+2013,Level 4,KK131,Auxiliary Finance and Insurance Services,Dollars (millions),H10,Indirect taxes,Financial performance,13,ANZSIC06 groups K641 and K642
+2013,Level 4,KK131,Auxiliary Finance and Insurance Services,Dollars (millions),H11,Depreciation,Financial performance,91,ANZSIC06 groups K641 and K642
+2013,Level 4,KK131,Auxiliary Finance and Insurance Services,Dollars (millions),H12,Salaries and wages paid,Financial performance,1395,ANZSIC06 groups K641 and K642
+2013,Level 4,KK131,Auxiliary Finance and Insurance Services,Dollars (millions),H13,Redundancy and severance,Financial performance,9,ANZSIC06 groups K641 and K642
+2013,Level 4,KK131,Auxiliary Finance and Insurance Services,Dollars (millions),H14,Salaries and wages to self employed commission agents,Financial performance,71,ANZSIC06 groups K641 and K642
+2013,Level 4,KK131,Auxiliary Finance and Insurance Services,Dollars (millions),H19,Purchases and other operating expenses,Financial performance,1780,ANZSIC06 groups K641 and K642
+2013,Level 4,KK131,Auxiliary Finance and Insurance Services,Dollars (millions),H20,Non-operating expenses,Financial performance,122,ANZSIC06 groups K641 and K642
+2013,Level 4,KK131,Auxiliary Finance and Insurance Services,Dollars (millions),H21,Opening stocks,Financial performance,9,ANZSIC06 groups K641 and K642
+2013,Level 4,KK131,Auxiliary Finance and Insurance Services,Dollars (millions),H22,Closing stocks,Financial performance,10,ANZSIC06 groups K641 and K642
+2013,Level 4,KK131,Auxiliary Finance and Insurance Services,Dollars (millions),H23,Surplus before income tax,Financial performance,931,ANZSIC06 groups K641 and K642
+2013,Level 4,KK131,Auxiliary Finance and Insurance Services,Dollars (millions),H24,Total assets,Financial position,10956,ANZSIC06 groups K641 and K642
+2013,Level 4,KK131,Auxiliary Finance and Insurance Services,Dollars (millions),H30,Total equity and liabilities,Financial position,10956,ANZSIC06 groups K641 and K642
+2013,Level 4,KK131,Auxiliary Finance and Insurance Services,Dollars (millions),H31,Shareholders funds or owners equity,Financial position,4517,ANZSIC06 groups K641 and K642
+2013,Level 4,KK131,Auxiliary Finance and Insurance Services,Dollars,H34,Total income per employee count,Financial ratios,312200,ANZSIC06 groups K641 and K642
+2013,Level 4,KK131,Auxiliary Finance and Insurance Services,Dollars,H35,Surplus per employee count,Financial ratios,63300,ANZSIC06 groups K641 and K642
+2013,Level 4,KK131,Auxiliary Finance and Insurance Services,Percentage,H39,Return on equity,Financial ratios,21,ANZSIC06 groups K641 and K642
+2013,Level 4,KK131,Auxiliary Finance and Insurance Services,Percentage,H40,Return on total assets,Financial ratios,8,ANZSIC06 groups K641 and K642
+2013,Level 4,KK131,Auxiliary Finance and Insurance Services,Percentage,H41,Liabilities structure,Financial ratios,41,ANZSIC06 groups K641 and K642
+2013,Level 1,LL,"Rental, Hiring and Real Estate Services",Dollars (millions),H01,Total income,Financial performance,22634,ANZSIC06 division L
+2013,Level 1,LL,"Rental, Hiring and Real Estate Services",Dollars (millions),H04,Sales of goods and services,Financial performance,19265,ANZSIC06 division L
+2013,Level 1,LL,"Rental, Hiring and Real Estate Services",Dollars (millions),H05,"Interest, dividends and donations",Financial performance,1413,ANZSIC06 division L
+2013,Level 1,LL,"Rental, Hiring and Real Estate Services",Dollars (millions),H06,"Government funding, grants and subsidies",Financial performance,31,ANZSIC06 division L
+2013,Level 1,LL,"Rental, Hiring and Real Estate Services",Dollars (millions),H07,Non-operating income,Financial performance,1926,ANZSIC06 division L
+2013,Level 1,LL,"Rental, Hiring and Real Estate Services",Dollars (millions),H08,Total expenditure,Financial performance,15836,ANZSIC06 division L
+2013,Level 1,LL,"Rental, Hiring and Real Estate Services",Dollars (millions),H09,Interest and donations,Financial performance,3731,ANZSIC06 division L
+2013,Level 1,LL,"Rental, Hiring and Real Estate Services",Dollars (millions),H10,Indirect taxes,Financial performance,520,ANZSIC06 division L
+2013,Level 1,LL,"Rental, Hiring and Real Estate Services",Dollars (millions),H11,Depreciation,Financial performance,1560,ANZSIC06 division L
+2013,Level 1,LL,"Rental, Hiring and Real Estate Services",Dollars (millions),H12,Salaries and wages paid,Financial performance,1543,ANZSIC06 division L
+2013,Level 1,LL,"Rental, Hiring and Real Estate Services",Dollars (millions),H13,Redundancy and severance,Financial performance,C,ANZSIC06 division L
+2013,Level 1,LL,"Rental, Hiring and Real Estate Services",Dollars (millions),H14,Salaries and wages to self employed commission agents,Financial performance,826,ANZSIC06 division L
+2013,Level 1,LL,"Rental, Hiring and Real Estate Services",Dollars (millions),H19,Purchases and other operating expenses,Financial performance,6897,ANZSIC06 division L
+2013,Level 1,LL,"Rental, Hiring and Real Estate Services",Dollars (millions),H20,Non-operating expenses,Financial performance,759,ANZSIC06 division L
+2013,Level 1,LL,"Rental, Hiring and Real Estate Services",Dollars (millions),H21,Opening stocks,Financial performance,3288,ANZSIC06 division L
+2013,Level 1,LL,"Rental, Hiring and Real Estate Services",Dollars (millions),H22,Closing stocks,Financial performance,3231,ANZSIC06 division L
+2013,Level 1,LL,"Rental, Hiring and Real Estate Services",Dollars (millions),H23,Surplus before income tax,Financial performance,6742,ANZSIC06 division L
+2013,Level 1,LL,"Rental, Hiring and Real Estate Services",Dollars (millions),H24,Total assets,Financial position,181922,ANZSIC06 division L
+2013,Level 1,LL,"Rental, Hiring and Real Estate Services",Dollars (millions),H25,Current assets,Financial position,26886,ANZSIC06 division L
+2013,Level 1,LL,"Rental, Hiring and Real Estate Services",Dollars (millions),H26,Fixed tangible assets,Financial position,126399,ANZSIC06 division L
+2013,Level 1,LL,"Rental, Hiring and Real Estate Services",Dollars (millions),H27,Additions to fixed assets,Financial position,14862,ANZSIC06 division L
+2013,Level 1,LL,"Rental, Hiring and Real Estate Services",Dollars (millions),H28,Disposals of fixed assets,Financial position,9425,ANZSIC06 division L
+2013,Level 1,LL,"Rental, Hiring and Real Estate Services",Dollars (millions),H29,Other assets,Financial position,28637,ANZSIC06 division L
+2013,Level 1,LL,"Rental, Hiring and Real Estate Services",Dollars (millions),H30,Total equity and liabilities,Financial position,181922,ANZSIC06 division L
+2013,Level 1,LL,"Rental, Hiring and Real Estate Services",Dollars (millions),H31,Shareholders funds or owners equity,Financial position,77765,ANZSIC06 division L
+2013,Level 1,LL,"Rental, Hiring and Real Estate Services",Dollars (millions),H32,Current liabilities,Financial position,34351,ANZSIC06 division L
+2013,Level 1,LL,"Rental, Hiring and Real Estate Services",Dollars (millions),H33,Other liabilities,Financial position,69807,ANZSIC06 division L
+2013,Level 1,LL,"Rental, Hiring and Real Estate Services",Dollars,H34,Total income per employee count,Financial ratios,895600,ANZSIC06 division L
+2013,Level 1,LL,"Rental, Hiring and Real Estate Services",Dollars,H35,Surplus per employee count,Financial ratios,266700,ANZSIC06 division L
+2013,Level 1,LL,"Rental, Hiring and Real Estate Services",Percentage,H36,Current ratio,Financial ratios,78,ANZSIC06 division L
+2013,Level 1,LL,"Rental, Hiring and Real Estate Services",Percentage,H37,Quick ratio,Financial ratios,69,ANZSIC06 division L
+2013,Level 1,LL,"Rental, Hiring and Real Estate Services",Percentage,H39,Return on equity,Financial ratios,9,ANZSIC06 division L
+2013,Level 1,LL,"Rental, Hiring and Real Estate Services",Percentage,H40,Return on total assets,Financial ratios,4,ANZSIC06 division L
+2013,Level 1,LL,"Rental, Hiring and Real Estate Services",Percentage,H41,Liabilities structure,Financial ratios,43,ANZSIC06 division L
+2013,Level 3,LL11,Rental and Hiring Services (except Real Estate),Dollars (millions),H01,Total income,Financial performance,4321,"ANZSIC06 groups L661, L662, L663, and L664"
+2013,Level 3,LL11,Rental and Hiring Services (except Real Estate),Dollars (millions),H04,Sales of goods and services,Financial performance,3879,"ANZSIC06 groups L661, L662, L663, and L664"
+2013,Level 3,LL11,Rental and Hiring Services (except Real Estate),Dollars (millions),H05,"Interest, dividends and donations",Financial performance,314,"ANZSIC06 groups L661, L662, L663, and L664"
+2013,Level 3,LL11,Rental and Hiring Services (except Real Estate),Dollars (millions),H06,"Government funding, grants and subsidies",Financial performance,2,"ANZSIC06 groups L661, L662, L663, and L664"
+2013,Level 3,LL11,Rental and Hiring Services (except Real Estate),Dollars (millions),H07,Non-operating income,Financial performance,126,"ANZSIC06 groups L661, L662, L663, and L664"
+2013,Level 3,LL11,Rental and Hiring Services (except Real Estate),Dollars (millions),H08,Total expenditure,Financial performance,3636,"ANZSIC06 groups L661, L662, L663, and L664"
+2013,Level 3,LL11,Rental and Hiring Services (except Real Estate),Dollars (millions),H09,Interest and donations,Financial performance,591,"ANZSIC06 groups L661, L662, L663, and L664"
+2013,Level 3,LL11,Rental and Hiring Services (except Real Estate),Dollars (millions),H10,Indirect taxes,Financial performance,28,"ANZSIC06 groups L661, L662, L663, and L664"
+2013,Level 3,LL11,Rental and Hiring Services (except Real Estate),Dollars (millions),H11,Depreciation,Financial performance,722,"ANZSIC06 groups L661, L662, L663, and L664"
+2013,Level 3,LL11,Rental and Hiring Services (except Real Estate),Dollars (millions),H12,Salaries and wages paid,Financial performance,586,"ANZSIC06 groups L661, L662, L663, and L664"
+2013,Level 3,LL11,Rental and Hiring Services (except Real Estate),Dollars (millions),H13,Redundancy and severance,Financial performance,C,"ANZSIC06 groups L661, L662, L663, and L664"
+2013,Level 3,LL11,Rental and Hiring Services (except Real Estate),Dollars (millions),H14,Salaries and wages to self employed commission agents,Financial performance,0,"ANZSIC06 groups L661, L662, L663, and L664"
+2013,Level 3,LL11,Rental and Hiring Services (except Real Estate),Dollars (millions),H19,Purchases and other operating expenses,Financial performance,1615,"ANZSIC06 groups L661, L662, L663, and L664"
+2013,Level 3,LL11,Rental and Hiring Services (except Real Estate),Dollars (millions),H20,Non-operating expenses,Financial performance,94,"ANZSIC06 groups L661, L662, L663, and L664"
+2013,Level 3,LL11,Rental and Hiring Services (except Real Estate),Dollars (millions),H21,Opening stocks,Financial performance,121,"ANZSIC06 groups L661, L662, L663, and L664"
+2013,Level 3,LL11,Rental and Hiring Services (except Real Estate),Dollars (millions),H22,Closing stocks,Financial performance,131,"ANZSIC06 groups L661, L662, L663, and L664"
+2013,Level 3,LL11,Rental and Hiring Services (except Real Estate),Dollars (millions),H23,Surplus before income tax,Financial performance,695,"ANZSIC06 groups L661, L662, L663, and L664"
+2013,Level 3,LL11,Rental and Hiring Services (except Real Estate),Dollars (millions),H24,Total assets,Financial position,18530,"ANZSIC06 groups L661, L662, L663, and L664"
+2013,Level 3,LL11,Rental and Hiring Services (except Real Estate),Dollars (millions),H25,Current assets,Financial position,5900,"ANZSIC06 groups L661, L662, L663, and L664"
+2013,Level 3,LL11,Rental and Hiring Services (except Real Estate),Dollars (millions),H26,Fixed tangible assets,Financial position,5402,"ANZSIC06 groups L661, L662, L663, and L664"
+2013,Level 3,LL11,Rental and Hiring Services (except Real Estate),Dollars (millions),H27,Additions to fixed assets,Financial position,1629,"ANZSIC06 groups L661, L662, L663, and L664"
+2013,Level 3,LL11,Rental and Hiring Services (except Real Estate),Dollars (millions),H28,Disposals of fixed assets,Financial position,487,"ANZSIC06 groups L661, L662, L663, and L664"
+2013,Level 3,LL11,Rental and Hiring Services (except Real Estate),Dollars (millions),H29,Other assets,Financial position,7228,"ANZSIC06 groups L661, L662, L663, and L664"
+2013,Level 3,LL11,Rental and Hiring Services (except Real Estate),Dollars (millions),H30,Total equity and liabilities,Financial position,18530,"ANZSIC06 groups L661, L662, L663, and L664"
+2013,Level 3,LL11,Rental and Hiring Services (except Real Estate),Dollars (millions),H31,Shareholders funds or owners equity,Financial position,5748,"ANZSIC06 groups L661, L662, L663, and L664"
+2013,Level 3,LL11,Rental and Hiring Services (except Real Estate),Dollars (millions),H32,Current liabilities,Financial position,3836,"ANZSIC06 groups L661, L662, L663, and L664"
+2013,Level 3,LL11,Rental and Hiring Services (except Real Estate),Dollars (millions),H33,Other liabilities,Financial position,8946,"ANZSIC06 groups L661, L662, L663, and L664"
+2013,Level 3,LL11,Rental and Hiring Services (except Real Estate),Dollars,H34,Total income per employee count,Financial ratios,389900,"ANZSIC06 groups L661, L662, L663, and L664"
+2013,Level 3,LL11,Rental and Hiring Services (except Real Estate),Dollars,H35,Surplus per employee count,Financial ratios,62800,"ANZSIC06 groups L661, L662, L663, and L664"
+2013,Level 3,LL11,Rental and Hiring Services (except Real Estate),Percentage,H36,Current ratio,Financial ratios,154,"ANZSIC06 groups L661, L662, L663, and L664"
+2013,Level 3,LL11,Rental and Hiring Services (except Real Estate),Percentage,H37,Quick ratio,Financial ratios,150,"ANZSIC06 groups L661, L662, L663, and L664"
+2013,Level 3,LL11,Rental and Hiring Services (except Real Estate),Percentage,H39,Return on equity,Financial ratios,12,"ANZSIC06 groups L661, L662, L663, and L664"
+2013,Level 3,LL11,Rental and Hiring Services (except Real Estate),Percentage,H40,Return on total assets,Financial ratios,4,"ANZSIC06 groups L661, L662, L663, and L664"
+2013,Level 3,LL11,Rental and Hiring Services (except Real Estate),Percentage,H41,Liabilities structure,Financial ratios,31,"ANZSIC06 groups L661, L662, L663, and L664"
+2013,Level 4,LL111,Rental and Hiring Services (except Real Estate),Dollars (millions),H01,Total income,Financial performance,3231,"ANZSIC06 groups L661, L662, and L663"
+2013,Level 4,LL111,Rental and Hiring Services (except Real Estate),Dollars (millions),H04,Sales of goods and services,Financial performance,2894,"ANZSIC06 groups L661, L662, and L663"
+2013,Level 4,LL111,Rental and Hiring Services (except Real Estate),Dollars (millions),H05,"Interest, dividends and donations",Financial performance,231,"ANZSIC06 groups L661, L662, and L663"
+2013,Level 4,LL111,Rental and Hiring Services (except Real Estate),Dollars (millions),H06,"Government funding, grants and subsidies",Financial performance,0,"ANZSIC06 groups L661, L662, and L663"
+2013,Level 4,LL111,Rental and Hiring Services (except Real Estate),Dollars (millions),H07,Non-operating income,Financial performance,105,"ANZSIC06 groups L661, L662, and L663"
+2013,Level 4,LL111,Rental and Hiring Services (except Real Estate),Dollars (millions),H08,Total expenditure,Financial performance,2900,"ANZSIC06 groups L661, L662, and L663"
+2013,Level 4,LL111,Rental and Hiring Services (except Real Estate),Dollars (millions),H09,Interest and donations,Financial performance,C,"ANZSIC06 groups L661, L662, and L663"
+2013,Level 4,LL111,Rental and Hiring Services (except Real Estate),Dollars (millions),H10,Indirect taxes,Financial performance,26,"ANZSIC06 groups L661, L662, and L663"
+2013,Level 4,LL111,Rental and Hiring Services (except Real Estate),Dollars (millions),H11,Depreciation,Financial performance,699,"ANZSIC06 groups L661, L662, and L663"
+2013,Level 4,LL111,Rental and Hiring Services (except Real Estate),Dollars (millions),H12,Salaries and wages paid,Financial performance,480,"ANZSIC06 groups L661, L662, and L663"
+2013,Level 4,LL111,Rental and Hiring Services (except Real Estate),Dollars (millions),H13,Redundancy and severance,Financial performance,C,"ANZSIC06 groups L661, L662, and L663"
+2013,Level 4,LL111,Rental and Hiring Services (except Real Estate),Dollars (millions),H14,Salaries and wages to self employed commission agents,Financial performance,0,"ANZSIC06 groups L661, L662, and L663"
+2013,Level 4,LL111,Rental and Hiring Services (except Real Estate),Dollars (millions),H19,Purchases and other operating expenses,Financial performance,1292,"ANZSIC06 groups L661, L662, and L663"
+2013,Level 4,LL111,Rental and Hiring Services (except Real Estate),Dollars (millions),H20,Non-operating expenses,Financial performance,C,"ANZSIC06 groups L661, L662, and L663"
+2013,Level 4,LL111,Rental and Hiring Services (except Real Estate),Dollars (millions),H21,Opening stocks,Financial performance,112,"ANZSIC06 groups L661, L662, and L663"
+2013,Level 4,LL111,Rental and Hiring Services (except Real Estate),Dollars (millions),H22,Closing stocks,Financial performance,121,"ANZSIC06 groups L661, L662, and L663"
+2013,Level 4,LL111,Rental and Hiring Services (except Real Estate),Dollars (millions),H23,Surplus before income tax,Financial performance,341,"ANZSIC06 groups L661, L662, and L663"
+2013,Level 4,LL111,Rental and Hiring Services (except Real Estate),Dollars (millions),H24,Total assets,Financial position,12569,"ANZSIC06 groups L661, L662, and L663"
+2013,Level 4,LL111,Rental and Hiring Services (except Real Estate),Dollars (millions),H25,Current assets,Financial position,4689,"ANZSIC06 groups L661, L662, and L663"
+2013,Level 4,LL111,Rental and Hiring Services (except Real Estate),Dollars (millions),H26,Fixed tangible assets,Financial position,5004,"ANZSIC06 groups L661, L662, and L663"
+2013,Level 4,LL111,Rental and Hiring Services (except Real Estate),Dollars (millions),H27,Additions to fixed assets,Financial position,1496,"ANZSIC06 groups L661, L662, and L663"
+2013,Level 4,LL111,Rental and Hiring Services (except Real Estate),Dollars (millions),H28,Disposals of fixed assets,Financial position,452,"ANZSIC06 groups L661, L662, and L663"
+2013,Level 4,LL111,Rental and Hiring Services (except Real Estate),Dollars (millions),H29,Other assets,Financial position,2876,"ANZSIC06 groups L661, L662, and L663"
+2013,Level 4,LL111,Rental and Hiring Services (except Real Estate),Dollars (millions),H30,Total equity and liabilities,Financial position,12569,"ANZSIC06 groups L661, L662, and L663"
+2013,Level 4,LL111,Rental and Hiring Services (except Real Estate),Dollars (millions),H31,Shareholders funds or owners equity,Financial position,3407,"ANZSIC06 groups L661, L662, and L663"
+2013,Level 4,LL111,Rental and Hiring Services (except Real Estate),Dollars (millions),H32,Current liabilities,Financial position,3208,"ANZSIC06 groups L661, L662, and L663"
+2013,Level 4,LL111,Rental and Hiring Services (except Real Estate),Dollars (millions),H33,Other liabilities,Financial position,5955,"ANZSIC06 groups L661, L662, and L663"
+2013,Level 4,LL111,Rental and Hiring Services (except Real Estate),Dollars,H34,Total income per employee count,Financial ratios,327700,"ANZSIC06 groups L661, L662, and L663"
+2013,Level 4,LL111,Rental and Hiring Services (except Real Estate),Dollars,H35,Surplus per employee count,Financial ratios,34600,"ANZSIC06 groups L661, L662, and L663"
+2013,Level 4,LL111,Rental and Hiring Services (except Real Estate),Percentage,H36,Current ratio,Financial ratios,146,"ANZSIC06 groups L661, L662, and L663"
+2013,Level 4,LL111,Rental and Hiring Services (except Real Estate),Percentage,H37,Quick ratio,Financial ratios,142,"ANZSIC06 groups L661, L662, and L663"
+2013,Level 4,LL111,Rental and Hiring Services (except Real Estate),Percentage,H39,Return on equity,Financial ratios,10,"ANZSIC06 groups L661, L662, and L663"
+2013,Level 4,LL111,Rental and Hiring Services (except Real Estate),Percentage,H40,Return on total assets,Financial ratios,3,"ANZSIC06 groups L661, L662, and L663"
+2013,Level 4,LL111,Rental and Hiring Services (except Real Estate),Percentage,H41,Liabilities structure,Financial ratios,27,"ANZSIC06 groups L661, L662, and L663"
+2013,Level 4,LL112,Non-Financial Asset Leasing,Dollars (millions),H01,Total income,Financial performance,1090,ANZSIC06 group L664
+2013,Level 4,LL112,Non-Financial Asset Leasing,Dollars (millions),H04,Sales of goods and services,Financial performance,985,ANZSIC06 group L664
+2013,Level 4,LL112,Non-Financial Asset Leasing,Dollars (millions),H05,"Interest, dividends and donations",Financial performance,83,ANZSIC06 group L664
+2013,Level 4,LL112,Non-Financial Asset Leasing,Dollars (millions),H06,"Government funding, grants and subsidies",Financial performance,1,ANZSIC06 group L664
+2013,Level 4,LL112,Non-Financial Asset Leasing,Dollars (millions),H07,Non-operating income,Financial performance,20,ANZSIC06 group L664
+2013,Level 4,LL112,Non-Financial Asset Leasing,Dollars (millions),H08,Total expenditure,Financial performance,736,ANZSIC06 group L664
+2013,Level 4,LL112,Non-Financial Asset Leasing,Dollars (millions),H09,Interest and donations,Financial performance,C,ANZSIC06 group L664
+2013,Level 4,LL112,Non-Financial Asset Leasing,Dollars (millions),H10,Indirect taxes,Financial performance,2,ANZSIC06 group L664
+2013,Level 4,LL112,Non-Financial Asset Leasing,Dollars (millions),H11,Depreciation,Financial performance,23,ANZSIC06 group L664
+2013,Level 4,LL112,Non-Financial Asset Leasing,Dollars (millions),H12,Salaries and wages paid,Financial performance,107,ANZSIC06 group L664
+2013,Level 4,LL112,Non-Financial Asset Leasing,Dollars (millions),H13,Redundancy and severance,Financial performance,1,ANZSIC06 group L664
+2013,Level 4,LL112,Non-Financial Asset Leasing,Dollars (millions),H14,Salaries and wages to self employed commission agents,Financial performance,0,ANZSIC06 group L664
+2013,Level 4,LL112,Non-Financial Asset Leasing,Dollars (millions),H19,Purchases and other operating expenses,Financial performance,322,ANZSIC06 group L664
+2013,Level 4,LL112,Non-Financial Asset Leasing,Dollars (millions),H20,Non-operating expenses,Financial performance,C,ANZSIC06 group L664
+2013,Level 4,LL112,Non-Financial Asset Leasing,Dollars (millions),H21,Opening stocks,Financial performance,9,ANZSIC06 group L664
+2013,Level 4,LL112,Non-Financial Asset Leasing,Dollars (millions),H22,Closing stocks,Financial performance,10,ANZSIC06 group L664
+2013,Level 4,LL112,Non-Financial Asset Leasing,Dollars (millions),H23,Surplus before income tax,Financial performance,354,ANZSIC06 group L664
+2013,Level 4,LL112,Non-Financial Asset Leasing,Dollars (millions),H24,Total assets,Financial position,5961,ANZSIC06 group L664
+2013,Level 4,LL112,Non-Financial Asset Leasing,Dollars (millions),H25,Current assets,Financial position,1211,ANZSIC06 group L664
+2013,Level 4,LL112,Non-Financial Asset Leasing,Dollars (millions),H26,Fixed tangible assets,Financial position,399,ANZSIC06 group L664
+2013,Level 4,LL112,Non-Financial Asset Leasing,Dollars (millions),H27,Additions to fixed assets,Financial position,133,ANZSIC06 group L664
+2013,Level 4,LL112,Non-Financial Asset Leasing,Dollars (millions),H28,Disposals of fixed assets,Financial position,34,ANZSIC06 group L664
+2013,Level 4,LL112,Non-Financial Asset Leasing,Dollars (millions),H29,Other assets,Financial position,4351,ANZSIC06 group L664
+2013,Level 4,LL112,Non-Financial Asset Leasing,Dollars (millions),H30,Total equity and liabilities,Financial position,5961,ANZSIC06 group L664
+2013,Level 4,LL112,Non-Financial Asset Leasing,Dollars (millions),H31,Shareholders funds or owners equity,Financial position,2342,ANZSIC06 group L664
+2013,Level 4,LL112,Non-Financial Asset Leasing,Dollars (millions),H32,Current liabilities,Financial position,628,ANZSIC06 group L664
+2013,Level 4,LL112,Non-Financial Asset Leasing,Dollars (millions),H33,Other liabilities,Financial position,2991,ANZSIC06 group L664
+2013,Level 4,LL112,Non-Financial Asset Leasing,Dollars,H34,Total income per employee count,Financial ratios,890600,ANZSIC06 group L664
+2013,Level 4,LL112,Non-Financial Asset Leasing,Dollars,H35,Surplus per employee count,Financial ratios,289600,ANZSIC06 group L664
+2013,Level 4,LL112,Non-Financial Asset Leasing,Percentage,H36,Current ratio,Financial ratios,193,ANZSIC06 group L664
+2013,Level 4,LL112,Non-Financial Asset Leasing,Percentage,H37,Quick ratio,Financial ratios,191,ANZSIC06 group L664
+2013,Level 4,LL112,Non-Financial Asset Leasing,Percentage,H39,Return on equity,Financial ratios,15,ANZSIC06 group L664
+2013,Level 4,LL112,Non-Financial Asset Leasing,Percentage,H40,Return on total assets,Financial ratios,6,ANZSIC06 group L664
+2013,Level 4,LL112,Non-Financial Asset Leasing,Percentage,H41,Liabilities structure,Financial ratios,39,ANZSIC06 group L664
+2013,Level 3,LL12,Property Operators and Real Estate Services,Dollars (millions),H01,Total income,Financial performance,18313,"ANZSIC06 groups L671 (excluding class L6711), and L672"
+2013,Level 3,LL12,Property Operators and Real Estate Services,Dollars (millions),H04,Sales of goods and services,Financial performance,15386,"ANZSIC06 groups L671 (excluding class L6711), and L672"
+2013,Level 3,LL12,Property Operators and Real Estate Services,Dollars (millions),H05,"Interest, dividends and donations",Financial performance,1098,"ANZSIC06 groups L671 (excluding class L6711), and L672"
+2013,Level 3,LL12,Property Operators and Real Estate Services,Dollars (millions),H06,"Government funding, grants and subsidies",Financial performance,29,"ANZSIC06 groups L671 (excluding class L6711), and L672"
+2013,Level 3,LL12,Property Operators and Real Estate Services,Dollars (millions),H07,Non-operating income,Financial performance,1800,"ANZSIC06 groups L671 (excluding class L6711), and L672"
+2013,Level 3,LL12,Property Operators and Real Estate Services,Dollars (millions),H08,Total expenditure,Financial performance,12199,"ANZSIC06 groups L671 (excluding class L6711), and L672"
+2013,Level 3,LL12,Property Operators and Real Estate Services,Dollars (millions),H09,Interest and donations,Financial performance,3140,"ANZSIC06 groups L671 (excluding class L6711), and L672"
+2013,Level 3,LL12,Property Operators and Real Estate Services,Dollars (millions),H10,Indirect taxes,Financial performance,492,"ANZSIC06 groups L671 (excluding class L6711), and L672"
+2013,Level 3,LL12,Property Operators and Real Estate Services,Dollars (millions),H11,Depreciation,Financial performance,838,"ANZSIC06 groups L671 (excluding class L6711), and L672"
+2013,Level 3,LL12,Property Operators and Real Estate Services,Dollars (millions),H12,Salaries and wages paid,Financial performance,957,"ANZSIC06 groups L671 (excluding class L6711), and L672"
+2013,Level 3,LL12,Property Operators and Real Estate Services,Dollars (millions),H13,Redundancy and severance,Financial performance,0,"ANZSIC06 groups L671 (excluding class L6711), and L672"
+2013,Level 3,LL12,Property Operators and Real Estate Services,Dollars (millions),H14,Salaries and wages to self employed commission agents,Financial performance,825,"ANZSIC06 groups L671 (excluding class L6711), and L672"
+2013,Level 3,LL12,Property Operators and Real Estate Services,Dollars (millions),H19,Purchases and other operating expenses,Financial performance,5282,"ANZSIC06 groups L671 (excluding class L6711), and L672"
+2013,Level 3,LL12,Property Operators and Real Estate Services,Dollars (millions),H20,Non-operating expenses,Financial performance,665,"ANZSIC06 groups L671 (excluding class L6711), and L672"
+2013,Level 3,LL12,Property Operators and Real Estate Services,Dollars (millions),H21,Opening stocks,Financial performance,3167,"ANZSIC06 groups L671 (excluding class L6711), and L672"
+2013,Level 3,LL12,Property Operators and Real Estate Services,Dollars (millions),H22,Closing stocks,Financial performance,3100,"ANZSIC06 groups L671 (excluding class L6711), and L672"
+2013,Level 3,LL12,Property Operators and Real Estate Services,Dollars (millions),H23,Surplus before income tax,Financial performance,6046,"ANZSIC06 groups L671 (excluding class L6711), and L672"
+2013,Level 3,LL12,Property Operators and Real Estate Services,Dollars (millions),H24,Total assets,Financial position,163392,"ANZSIC06 groups L671 (excluding class L6711), and L672"
+2013,Level 3,LL12,Property Operators and Real Estate Services,Dollars (millions),H25,Current assets,Financial position,20986,"ANZSIC06 groups L671 (excluding class L6711), and L672"
+2013,Level 3,LL12,Property Operators and Real Estate Services,Dollars (millions),H26,Fixed tangible assets,Financial position,120996,"ANZSIC06 groups L671 (excluding class L6711), and L672"
+2013,Level 3,LL12,Property Operators and Real Estate Services,Dollars (millions),H27,Additions to fixed assets,Financial position,13233,"ANZSIC06 groups L671 (excluding class L6711), and L672"
